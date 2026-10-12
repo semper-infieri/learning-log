@@ -4,14 +4,14 @@
     "href": "posts.html",
     "title": "All posts",
     "section": "",
-    "text": "The tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1-2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
+    "text": "The tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Learning to read cells",
     "section": "",
-    "text": "I spent eight years making websites work. Now I’m heading towards bioengineering: single-cell data, brain tissue, and the tools that make sense of them."
+    "text": "I spent eight years making websites work. Now I’m heading toward bioengineering: single-cell data, brain tissue, and the tools that make sense of them."
   },
   {
     "objectID": "index.html#what-im-learning-now",
@@ -25,7 +25,7 @@
     "href": "index.html#latest",
     "title": "Learning to read cells",
     "section": "Latest",
-    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1-2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
+    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
   },
   {
     "objectID": "posts/003-mitochondria/index.html",
@@ -72,44 +72,44 @@
   {
     "objectID": "posts/002-week-1/index.html",
     "href": "posts/002-week-1/index.html",
-    "title": "Weeks 1-2: first, set up the calendar",
+    "title": "Weeks 1–2: first, set up the calendar",
     "section": "",
     "text": "No one has pushed a hotfix to the genome yet, so I’m reading the legacy code."
   },
   {
     "objectID": "posts/002-week-1/index.html#what-i-did",
     "href": "posts/002-week-1/index.html#what-i-did",
-    "title": "Weeks 1-2: first, set up the calendar",
+    "title": "Weeks 1–2: first, set up the calendar",
     "section": "What I did",
     "text": "What I did\n\nStarted Essence of Linear Algebra by 3Blue1Brown and got through six of the videos.\nBegan MIT Missing Semester — the shell lecture.\nStudied High School Biology every single day on Khan Academy, 30–35 minutes each day.\nSet up this blog: Quarto, a GitHub repo, and a lot of time spent picking a logo (obviously, the top importance).\nRan three times a week and did two strength sessions each week. Because the golden rule is: the more you stress your brain, the more you should stress your body (in the common sense of the word)."
   },
   {
     "objectID": "posts/002-week-1/index.html#what-clicked",
     "href": "posts/002-week-1/index.html#what-clicked",
-    "title": "Weeks 1-2: first, set up the calendar",
+    "title": "Weeks 1–2: first, set up the calendar",
     "section": "What clicked",
     "text": "What clicked\nBiology happened every day, the code part barely happened at all. The key difference was that the biology has its own time slot in my calendar before work, when my mind is mostly fresh. So time-management is everything when you have too much stuff to think about."
   },
   {
     "objectID": "posts/002-week-1/index.html#where-i-got-stuck",
     "href": "posts/002-week-1/index.html#where-i-got-stuck",
-    "title": "Weeks 1-2: first, set up the calendar",
+    "title": "Weeks 1–2: first, set up the calendar",
     "section": "Where I got stuck",
     "text": "Where I got stuck\n3Blue1Brown explains linear algebra through geometry, and my brain doesn’t do spatial pictures. I was even questioning my own knowledge about these concepts, because visual transformations of matrices made everything much more complicated. For example, I understand that the determinant is the area of the parallelogram formed by two adjacent vectors, but the narrator does rotations, scaling, or shearing of axes — and I am lost in the deep forest of geometry. Not to mention the 3D planes.\nFor a while I thought this was a problem I had to fix. Then I realized that in bioengineering I’ll be working with data in hundreds of dimensions that nobody can picture anyway. So I’m treating it as a known weak spot and moving on."
   },
   {
     "objectID": "posts/002-week-1/index.html#what-im-changing",
     "href": "posts/002-week-1/index.html#what-im-changing",
-    "title": "Weeks 1-2: first, set up the calendar",
+    "title": "Weeks 1–2: first, set up the calendar",
     "section": "What I’m changing",
     "text": "What I’m changing\nEvery task now gets a time block in a weekly calendar, with a start and an end. Studying moves to the morning, before work, where it’s already proven its efficiency. But also I have an hour after work, but for more relaxing studying tasks."
   },
   {
     "objectID": "posts/002-week-1/index.html#next-week",
     "href": "posts/002-week-1/index.html#next-week",
-    "title": "Weeks 1-2: first, set up the calendar",
+    "title": "Weeks 1–2: first, set up the calendar",
     "section": "Next week",
-    "text": "Next week\n\nMissing Semester (lectures 2 — 7)\nThe Linux Command Line (chapters 1-5)\nPython for Data Analysis (chapters 1-2)\nSolve some Rosalind problems\nMock IELTS\nHigh School Biology every day\n3Blue1Brown (lessons 7-16)"
+    "text": "Next week\n\nMissing Semester (lectures 2 — 7)\nThe Linux Command Line (chapters 1–5)\nPython for Data Analysis (chapters 1–2)\nSolve some Rosalind problems\nMock IELTS\nHigh School Biology every day\n3Blue1Brown (lessons 7–16)"
   },
   {
     "objectID": "posts/001-until-new-year/index.html",
