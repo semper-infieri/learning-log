@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-fc062de34ba4758930721fd750e8dc3d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-c403c08d75939f6dbb85e191356d4f46.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -254,6 +254,20 @@ ul.task-list li input[type="checkbox"] {
 })();
 </script>
 <script>
+// в тексте поста ссылка на другой пост открывается в новой вкладке —
+// читатель не теряет статью, которую читает. Лента постов, шапка и якоря не трогаются
+if (location.pathname.includes("/posts/")) {
+  document.querySelectorAll("#quarto-document-content a[href]").forEach(function (a) {
+    if (a.closest(".quarto-listing, .csl-entry, .citation, #quarto-appendix")) return;
+    var url = new URL(a.href, location.href);
+    if (url.origin !== location.origin || !url.pathname.includes("/posts/")) return;
+    if (!/(\/|\.html)$/.test(url.pathname)) return; // только страницы, не картинки для увеличения
+    if (url.pathname === location.pathname) return;
+    a.target = "_blank";
+    a.rel = "noopener";
+  });
+}
+
 // ссылки в списке источников (DOI и т.п.) открываются в новой вкладке;
 // тултип источника копирует разметку отсюда, так что там тоже
 document.querySelectorAll(".csl-entry a[href^='http']").forEach(function (a) {

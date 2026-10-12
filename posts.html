@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fc062de34ba4758930721fd750e8dc3d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c403c08d75939f6dbb85e191356d4f46.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -136,10 +136,10 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <link rel="alternate" type="application/rss+xml" title="semper in fieri" href="posts.xml" data-external="1"><meta property="og:title" content="All posts – semper in fieri">
-<meta property="og:image" content="https://semper-infieri.github.io/learning-log/posts/003-mitochondria/cover.jpg">
+<meta property="og:image" content="https://semper-infieri.github.io/learning-log/posts/004-week-3/cover.jpg">
 <meta property="og:site_name" content="semper in fieri">
 <meta name="twitter:title" content="All posts – semper in fieri">
-<meta name="twitter:image" content="https://semper-infieri.github.io/learning-log/posts/003-mitochondria/cover.jpg">
+<meta name="twitter:image" content="https://semper-infieri.github.io/learning-log/posts/004-week-3/cover.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -228,7 +228,29 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ZGVlcC1kaXZl" data-listing-date-sort="1791396000000" data-listing-file-modified-sort="1791474349994" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1120">
+<div class="quarto-post image-right" data-index="0" data-categories="d2Vla2x5" data-listing-date-sort="1791741600000" data-listing-file-modified-sort="1791796682298" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="634">
+<div class="thumbnail"><a href="./posts/004-week-3/index.html" class="no-external">
+
+<img loading="lazy" src="./posts/004-week-3/cover.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/004-week-3/index.html" class="no-external">Week 3: Missing Semester, almost found</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/004-week-3/index.html" class="no-external">
+<p>Seven lectures in one week and an honest IELTS baseline</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/004-week-3/index.html" class="no-external">
+<div class="listing-date">
+Oct 12, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="ZGVlcC1kaXZl" data-listing-date-sort="1791396000000" data-listing-file-modified-sort="1791474349994" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1120">
 <div class="thumbnail"><a href="./posts/003-mitochondria/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/003-mitochondria/cover.jpg" class="thumbnail-image">
@@ -250,7 +272,7 @@ Oct 8, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="d2Vla2x5" data-listing-date-sort="1791136800000" data-listing-file-modified-sort="1791475379485" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="366">
+<div class="quarto-post image-right" data-index="2" data-categories="d2Vla2x5" data-listing-date-sort="1791136800000" data-listing-file-modified-sort="1791475379485" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="366">
 <div class="thumbnail"><a href="./posts/002-week-1/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/002-week-1/cover.jpg" class="thumbnail-image">
@@ -272,7 +294,7 @@ Oct 5, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="cGxhbnM=" data-listing-date-sort="1790272800000" data-listing-file-modified-sort="1791474349985" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
+<div class="quarto-post image-right" data-index="3" data-categories="cGxhbnM=" data-listing-date-sort="1790272800000" data-listing-file-modified-sort="1791474349985" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
 <div class="thumbnail"><a href="./posts/001-until-new-year/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/001-until-new-year/cover.jpg" class="thumbnail-image">
@@ -327,6 +349,20 @@ Sep 25, 2026
 })();
 </script>
 <script>
+// в тексте поста ссылка на другой пост открывается в новой вкладке —
+// читатель не теряет статью, которую читает. Лента постов, шапка и якоря не трогаются
+if (location.pathname.includes("/posts/")) {
+  document.querySelectorAll("#quarto-document-content a[href]").forEach(function (a) {
+    if (a.closest(".quarto-listing, .csl-entry, .citation, #quarto-appendix")) return;
+    var url = new URL(a.href, location.href);
+    if (url.origin !== location.origin || !url.pathname.includes("/posts/")) return;
+    if (!/(\/|\.html)$/.test(url.pathname)) return; // только страницы, не картинки для увеличения
+    if (url.pathname === location.pathname) return;
+    a.target = "_blank";
+    a.rel = "noopener";
+  });
+}
+
 // ссылки в списке источников (DOI и т.п.) открываются в новой вкладке;
 // тултип источника копирует разметку отсюда, так что там тоже
 document.querySelectorAll(".csl-entry a[href^='http']").forEach(function (a) {

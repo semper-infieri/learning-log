@@ -10,7 +10,73 @@
 <atom:link href="https://semper-infieri.github.io/learning-log/index.xml" rel="self" type="application/rss+xml"/>
 <description>A frontend developer learning to read cells: notes, deep dives and projects on the way to bioengineering.</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 07 Oct 2026 18:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 18:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 3: Missing Semester, almost found</title>
+  <link>https://semper-infieri.github.io/learning-log/posts/004-week-3/</link>
+  <description><![CDATA[ 
+
+<!-- шапка поста: как баннер Quarto, но дата внутри баннера, а не под ним -->
+
+
+
+<div class="quip">
+<p>I estimated Missing Semester the way every developer estimates a task: “it’ll take a couple of days.”</p>
+</div>
+<section id="what-i-did" class="level2">
+<h2 data-anchor-id="what-i-did">What I did</h2>
+<ul>
+<li><strong><a href="../../posts/003-mitochondria/index.html">A deep dive into mitochondria</a></strong> for this blog: why they have their own DNA and how a swallowed bacterium became part of every animal cell.</li>
+<li><strong>Missing Semester</strong>: lectures 2–8. Seven lectures in one week, and the course is nearly finished: one lecture and one bonus topic left. To be honest, I only watched the lectures and read the notes, without doing the exercises. I don’t see much point in inventing artificial terminal tasks for myself — I’d rather practice when a real need comes up.</li>
+<li><strong>3Blue1Brown, Essence of Linear Algebra</strong>: lessons 7–8 — inverse matrices, column space and null space, and non-square matrices as transformations between dimensions.</li>
+<li><strong>Khan Academy’s High School Biology</strong> every day for 40 minutes. I finished the second unit, on organ systems.</li>
+<li><strong>Mock IELTS</strong>, all four parts, to get an honest baseline for my English plan. I’m around 6.0 overall on a mock test; the goal is 7.5 by next September.</li>
+<li><strong>Outside bioengineering</strong>: three runs this week getting ready for my 5K race on October 18, a lecture on Van Gogh, university biology lectures as a soundtrack for my walks, and a day with my partner’s grandmother for her birthday.</li>
+</ul>
+</section>
+<section id="what-clicked" class="level2">
+<h2 data-anchor-id="what-clicked">What clicked</h2>
+<ul>
+<li><strong>Evolution is not a design.</strong> While studying biology, everything looks perfectly tuned: every system connected to every other, almost like magic. Then it hits you — it’s survivorship bias. We only see the organisms whose variations happened to work; the rest simply didn’t make it.</li>
+<li><strong>Mitochondria happened once.</strong> Every organism that has mitochondria — me, a mushroom, an oak tree, an amoeba — descends from one and the same ancestral cell. A blue whale and the yeast in my bread are distant cousins.</li>
+<li><strong>“Beyond the Code” turned out to be my favorite lecture of Missing Semester.</strong> I expected another lecture about tools, and got an honest talk about the soft skills around programming instead. It’s the lecture I’d recommend to every beginner developer — and after eight years in frontend, I’d recommend it to experienced ones too.</li>
+</ul>
+</section>
+<section id="where-i-got-stuck" class="level2">
+<h2 data-anchor-id="where-i-got-stuck">Where I got stuck</h2>
+<p>The mock IELTS confirmed something obvious: when you don’t live in an English-speaking environment, active skills suffer the most. I read and listen to English a lot, so Listening and Reading held up reasonably well. But I rarely have to speak or write it, and it shows: in Speaking I run out of words when I have to talk for two minutes straight, and in Writing my ideas are fine, but the language stays simpler than I’d like.</p>
+</section>
+<section id="what-im-changing" class="level2">
+<h2 data-anchor-id="what-im-changing">What I’m changing</h2>
+<p>Most of the changes this week are about English: that’s where the mock IELTS showed the biggest gap.</p>
+<ul>
+<li><strong>Speaking every day, even if only for two minutes.</strong> I take one IELTS Part 2 card, set a timer, and talk with my phone recording. Once a week I transcribe one recording and go through the mistakes. Two minutes sounds like nothing, but it’s two minutes more than I used to speak English.</li>
+<li><strong>Writing on a schedule.</strong> One IELTS task every two weeks, alternating Task 1 and Task 2, each reviewed for mistakes.</li>
+<li><strong>Grammar and vocabulary from the ground up.</strong> I’m going through Cambridge’s “in Use” series cover to cover, starting with <em>English Grammar in Use</em> and <em>Academic Vocabulary in Use</em>. They are not exciting, but active skills need something to build on.</li>
+<li><strong>A real teacher from November.</strong> Recordings and books are a good start, but nothing replaces a live conversation.</li>
+</ul>
+</section>
+<section id="next-week" class="level2">
+<h2 data-anchor-id="next-week">Next week</h2>
+<ul>
+<li>Missing Semester: lecture 9 and the Data Wrangling lecture from 2020 — finishing the course</li>
+<li>The Linux Command Line: chapters 1–10</li>
+<li>Python for Data Analysis: chapters 1–3</li>
+<li>A few Rosalind problems</li>
+<li>Khan Academy’s High School Biology every day</li>
+<li>3Blue1Brown: lessons 9–16 — finishing the series</li>
+<li>A lot of English</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>weekly</category>
+  <guid>https://semper-infieri.github.io/learning-log/posts/004-week-3/</guid>
+  <pubDate>Sun, 11 Oct 2026 18:00:00 GMT</pubDate>
+  <media:content url="https://semper-infieri.github.io/learning-log/posts/004-week-3/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The tenants inside every cell</title>
   <link>https://semper-infieri.github.io/learning-log/posts/003-mitochondria/</link>
