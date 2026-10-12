@@ -13,7 +13,8 @@ $primary:      $emerald;
 $body-bg:      $paper;
 $body-color:   $ink;
 $link-color:   $emerald;
-$link-hover-color: darken($emerald, 8%);
+$link-hover-color: $rose;   // ховер у всех ссылок — розовый, как в шапке
+$link-weight:  inherit; // ссылка берёт толщину от текста: внутри **…** остаётся жирной
 
 // код и цитаты
 $code-color:         $emerald;
@@ -49,7 +50,7 @@ a,
   color: $rose !important;
 }
 
-// ссылки: тонкое приглушённое подчёркивание в тон текста, ярче на ховере
+// ссылки: тонкое приглушённое подчёркивание в тон текста; на ховере текст и подчёркивание розовые
 a {
   text-decoration-color: rgba($emerald, .3);
   text-decoration-thickness: 1px;
@@ -261,6 +262,10 @@ main.content.quarto-banner-title-block {
 
   &:hover {
     background: rgba($rose, .18);
+
+    > a {
+      color: $rose;
+    }
   }
 }
 
