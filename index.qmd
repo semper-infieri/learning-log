@@ -12,7 +12,7 @@ listing:
     feed: true
 ---
 
-I spent eight years making websites work. Now I'm heading towards bioengineering: single-cell data, brain tissue, and the tools that make sense of them.
+I spent eight years making websites work. Now I'm heading toward bioengineering: single-cell data, brain tissue, and the tools that make sense of them.
 
 ## What I'm learning now
 - Linear algebra — [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) by 3Blue1Brown

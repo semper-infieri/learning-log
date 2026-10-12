@@ -1,5 +1,5 @@
 ---
-title: "Weeks 1-2: first, set up the calendar"
+title: "Weeks 1–2: first, set up the calendar"
 description: "What I learned in my first two weeks of switching from frontend to bioengineering"
 date: "2026-10-05"
 categories: [weekly]
@@ -35,10 +35,10 @@ Every task now gets a time block in a weekly calendar, with a start and an end. 
 ## Next week
 
 - Missing Semester (lectures 2 — 7)
-- The Linux Command Line (chapters 1-5)
-- Python for Data Analysis (chapters 1-2)
+- The Linux Command Line (chapters 1–5)
+- Python for Data Analysis (chapters 1–2)
 - Solve some Rosalind problems
 - Mock IELTS
 - High School Biology every day
-- 3Blue1Brown (lessons 7-16)
+- 3Blue1Brown (lessons 7–16)
 

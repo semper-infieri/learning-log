@@ -1,5 +1,6 @@
 project:
   type: website
+  pre-render: scripts/clean-bib.ts
 
 website:
   description: "A frontend developer learning to read cells: notes, deep dives and projects on the way to bioengineering."
@@ -7,6 +8,8 @@ website:
   title: "semper in fieri"
   favicon: logo.svg
   open-graph: true
+  twitter-card:
+    card-style: summary_large_image
   navbar:
     pinned: true
     logo: logo.svg
