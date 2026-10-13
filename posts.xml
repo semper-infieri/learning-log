@@ -9,6 +9,11 @@
 <link>https://semper-infieri.github.io/learning-log/posts.html</link>
 <atom:link href="https://semper-infieri.github.io/learning-log/posts.xml" rel="self" type="application/rss+xml"/>
 <description>A frontend developer learning to read cells: notes, deep dives and projects on the way to bioengineering.</description>
+<image>
+<url>https://semper-infieri.github.io/learning-log/og-image.jpg</url>
+<title>semper in fieri</title>
+<link>https://semper-infieri.github.io/learning-log/posts.html</link>
+</image>
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Sun, 11 Oct 2026 18:00:00 GMT</lastBuildDate>
 <item>
