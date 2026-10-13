@@ -7,6 +7,7 @@ website:
   site-url: https://semper-infieri.github.io/learning-log/
   title: "semper in fieri"
   favicon: logo.svg
+  image: og-image.jpg 
   open-graph: true
   twitter-card:
     card-style: summary_large_image
