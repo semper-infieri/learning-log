@@ -1,0 +1,48 @@
+---
+title: "Week 4: outrun by Rabbits"
+description: "I finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping."
+date: "2026-10-19"
+categories: [weekly]
+image: cover.jpg
+---
+
+::: {.quip}
+Deoxyribose is just ribose minus one oxygen. Me after a 5 km run: same.
+:::
+
+## What I did
+
+- **Missing Semester**: lecture 9 and the Data Wrangling lecture (2020 edition). This course is over, and although I didn’t do all the command-line exercises, I now know where to look if I get stuck.
+- **The Linux Command Line**: chapters 1–9. It picks up where Missing Semester left off but goes deeper into the different commands and nuances of the command line.
+- **3Blue1Brown, Essence of Linear Algebra**: lessons 9–16. Some of them were like emotional rollercoasters because one minute I thought I fully understood the concept, and the next I didn’t get it at all. Interestingly, the easiest lesson for me was about eigenvalues and eigenvectors, even though the lecturer said that we have to understand all the previous topics to conceptualize this one. Maybe I am good at linear algebra after all :)
+- **Python for Data Analysis**: chapters 1–3. I went through introductory chapters about common libraries and data structures in Python. Ready to dig into the analysis!
+- **Khan Academy's High School Biology** every day for 45 minutes. Still on unit 3, about the cell cycle. There are a lot of new terms, some of which sound too similar to me.
+- **Alberts, Molecular Biology of the Cell**: went through half of chapter 6 ("From DNA to Protein") in order to write my next article. 
+- **Rosalind problems**: solved all the introductory problems in *Python Village* and did 6 problems in *Bioinformatics Stronghold*.
+- **English**: I started learning vocabulary for Writing Task 1 to describe graphs more easily. Also I recorded myself speaking for 2 minutes for Speaking Part 2. I don’t think I made huge progress this week, but speaking definitely feels less awkward now. 
+- **Outside bioengineering**: ran a 5K race in 39 minutes — both goals done: no walking and under 40 minutes! 
+
+## What clicked
+
+- Last week I started diving deep into molecular biology and how DNA and RNA are structured, using a diagram. And this week in Alberts I read that RNA contains ribose instead of deoxyribose, and that diagram popped into my head — great feeling.
+- I realized how well Rosalind is designed. First, you work on your algorithmic thinking. Second, you get molecular biology knowledge as you go. And finally, since the problems are so specific, you feel like a real scientist rather than someone solving abstract puzzles.
+
+## Where I got stuck
+
+The prize for the worst feeling of the week goes to the Rosalind problem *Rabbits and Recurrence Relations*. It is a basic algorithmic problem where you have to count how many rabbits there will be after N months, and I spent a huge amount of time trying to solve it. The solution was pretty simple, but I should solve this kind of task with pen and paper first. 
+
+I also did not complete the English tasks I expected to finish. But in my defense, I did speak English for at least 14 minutes, which still counts.
+
+## What I'm changing
+
+Next week I am going to be on vacation, so I expect to study a bit less, try to relax and come back with more energy.
+
+## Next week
+
+- Write an article "From genes to proteins"
+- The Linux Command Line: chapters 10–15
+- Python for Data Analysis: chapter 4
+- 3 Rosalind problems
+- Solve linear algebra problems: 3 times a week for 20 minutes
+- Khan Academy's High School Biology every day
+- A lot of English
