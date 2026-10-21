@@ -15,7 +15,70 @@
 <link>https://semper-infieri.github.io/learning-log/</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 11 Oct 2026 18:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 18:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 4: outrun by Rabbits</title>
+  <link>https://semper-infieri.github.io/learning-log/posts/005-week-4/</link>
+  <description><![CDATA[ 
+
+<!-- шапка поста: как баннер Quarto, но дата внутри баннера, а не под ним -->
+
+
+
+<div class="quip">
+<p>Deoxyribose is just ribose minus one oxygen. Me after a 5 km run: same.</p>
+</div>
+<section id="what-i-did" class="level2">
+<h2 data-anchor-id="what-i-did">What I did</h2>
+<ul>
+<li><strong>Missing Semester</strong>: lecture 9 and the Data Wrangling lecture (2020 edition). This course is over, and although I didn’t do all the command-line exercises, I now know where to look if I get stuck.</li>
+<li><strong>The Linux Command Line</strong>: chapters 1–9. It picks up where Missing Semester left off but goes deeper into the different commands and nuances of the command line.</li>
+<li><strong>3Blue1Brown, Essence of Linear Algebra</strong>: lessons 9–16. Some of them were like emotional rollercoasters because one minute I thought I fully understood the concept, and the next I didn’t get it at all. Interestingly, the easiest lesson for me was about eigenvalues and eigenvectors, even though the lecturer said that we have to understand all the previous topics to conceptualize this one. Maybe I am good at linear algebra after all :)</li>
+<li><strong>Python for Data Analysis</strong>: chapters 1–3. I went through introductory chapters about common libraries and data structures in Python. Ready to dig into the analysis!</li>
+<li><strong>Khan Academy’s High School Biology</strong> every day for 45 minutes. Still on unit 3, about the cell cycle. There are a lot of new terms, some of which sound too similar to me.</li>
+<li><strong>Alberts, Molecular Biology of the Cell</strong>: went through half of chapter 6 (“From DNA to Protein”) in order to write my next article.</li>
+<li><strong>Rosalind problems</strong>: solved all the introductory problems in <em>Python Village</em> and did 6 problems in <em>Bioinformatics Stronghold</em>.</li>
+<li><strong>English</strong>: I started learning vocabulary for Writing Task 1 to describe graphs more easily. Also I recorded myself speaking for 2 minutes for Speaking Part 2. I don’t think I made huge progress this week, but speaking definitely feels less awkward now.</li>
+<li><strong>Outside bioengineering</strong>: ran a 5K race in 39 minutes — both goals done: no walking and under 40 minutes!</li>
+</ul>
+</section>
+<section id="what-clicked" class="level2">
+<h2 data-anchor-id="what-clicked">What clicked</h2>
+<ul>
+<li>Last week I started diving deep into molecular biology and how DNA and RNA are structured, using a diagram. And this week in Alberts I read that RNA contains ribose instead of deoxyribose, and that diagram popped into my head — great feeling.</li>
+<li>I realized how well Rosalind is designed. First, you work on your algorithmic thinking. Second, you get molecular biology knowledge as you go. And finally, since the problems are so specific, you feel like a real scientist rather than someone solving abstract puzzles.</li>
+</ul>
+</section>
+<section id="where-i-got-stuck" class="level2">
+<h2 data-anchor-id="where-i-got-stuck">Where I got stuck</h2>
+<p>The prize for the worst feeling of the week goes to the Rosalind problem <em>Rabbits and Recurrence Relations</em>. It is a basic algorithmic problem where you have to count how many rabbits there will be after N months, and I spent a huge amount of time trying to solve it. The solution was pretty simple, but I should solve this kind of task with pen and paper first.</p>
+<p>I also did not complete the English tasks I expected to finish. But in my defense, I did speak English for at least 14 minutes, which still counts.</p>
+</section>
+<section id="what-im-changing" class="level2">
+<h2 data-anchor-id="what-im-changing">What I’m changing</h2>
+<p>Next week I am going to be on vacation, so I expect to study a bit less, try to relax and come back with more energy.</p>
+</section>
+<section id="next-week" class="level2">
+<h2 data-anchor-id="next-week">Next week</h2>
+<ul>
+<li>Write an article “From genes to proteins”</li>
+<li>The Linux Command Line: chapters 10–15</li>
+<li>Python for Data Analysis: chapter 4</li>
+<li>3 Rosalind problems</li>
+<li>Solve linear algebra problems: 3 times a week for 20 minutes</li>
+<li>Khan Academy’s High School Biology every day</li>
+<li>A lot of English</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>weekly</category>
+  <guid>https://semper-infieri.github.io/learning-log/posts/005-week-4/</guid>
+  <pubDate>Sun, 18 Oct 2026 18:00:00 GMT</pubDate>
+  <media:content url="https://semper-infieri.github.io/learning-log/posts/005-week-4/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 3: Missing Semester, almost found</title>
   <link>https://semper-infieri.github.io/learning-log/posts/004-week-3/</link>

@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "All posts",
     "section": "",
-    "text": "Week 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Week 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "index.html#latest",
     "title": "Learning to read cells",
     "section": "Latest",
-    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
+    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
   },
   {
     "objectID": "posts/001-until-new-year/index.html",
@@ -54,6 +54,48 @@
     "title": "The plan: fifteen weeks to January",
     "section": "What success looks like in December",
     "text": "What success looks like in December\n\nI can work in the terminal without googling every command.\nPython for Data Analysis and 30 Rosalind problems are done, and pandas feels like a tool, not a puzzle.\nHigh School Biology on Khan Academy is finished.\nMy first pull request is submitted, merged or not.\nThe December project is published here, with code and plots.\nThere’s a weekly log for every week, including the ones that went badly.\nMy third 5K race in October, run better than the first two.\nAn 8K race in December — the longest distance I’ll have actually run, not walked.\n\nIf I get most of this done, the plan worked. If I don’t, the log will show exactly where it broke, and that’s useful too."
+  },
+  {
+    "objectID": "posts/003-mitochondria/index.html",
+    "href": "posts/003-mitochondria/index.html",
+    "title": "The tenants inside every cell",
+    "section": "",
+    "text": "Two billion years later, the tenants are still paying rent in ATP.\n“The mitochondria is the powerhouse of the cell” is pretty much all I remembered from school biology. Then I started learning it properly and found out that this little organelle has its own DNA, a two-billion-year-old backstory, and a very particular way of being passed down in families. Here’s what surprised me most."
+  },
+  {
+    "objectID": "posts/003-mitochondria/index.html#more-than-a-powerhouse",
+    "href": "posts/003-mitochondria/index.html#more-than-a-powerhouse",
+    "title": "The tenants inside every cell",
+    "section": "More than a powerhouse",
+    "text": "More than a powerhouse\nOur cells contain different parts, and each of them has its own job. These parts are called organelles. One of them, the mitochondrion, works as the “powerhouse of the cell”: it breaks down sugars, fats, and sometimes even proteins, and turns them into energy that the cell stores in molecules of adenosine triphosphate, or ATP for short.\nMitochondria are often pictured as beans floating in the fluid inside the cell, the cytosol. But in fact, they are constantly on the move: special motor proteins pull them along the cell’s “skeleton”, called the cytoskeleton. Thanks to this, mitochondria can end up exactly where energy is needed most.\nI used to think there was only one mitochondrion in a cell, because that is how cells are usually drawn in diagrams. It turns out that is not true: a cell can contain many mitochondria, and where a lot of energy is needed, there can be several thousand of them in a single cell — for example, in neurons and heart muscle cells. What’s more, mitochondria can divide and fuse with each other, adjusting their number to the cell’s needs.\n\n\n\nA human cell with its main organelles. (AI-generated image)"
+  },
+  {
+    "objectID": "posts/003-mitochondria/index.html#swallowed-but-not-broken",
+    "href": "posts/003-mitochondria/index.html#swallowed-but-not-broken",
+    "title": "The tenants inside every cell",
+    "section": "Swallowed but not broken",
+    "text": "Swallowed but not broken\nHere is one of the most surprising facts: mitochondria have their own DNA! And it is not like the DNA stored in the nucleus. Nuclear DNA is organized into long chromosomes and tucked away behind the nuclear envelope, while mitochondrial DNA is a small ring that lies right inside the organelle. Bacteria have similar circular DNA — and that is no coincidence.\nThis is explained by the endosymbiotic theory (Roger et al. 2017). About two billion years ago, the ancestors of mitochondria were independent bacteria. At some point a larger cell engulfed one of these bacteria, but did not digest it, and the bacterium stayed alive inside. The result was a mutually beneficial partnership: the larger cell supplied the bacterium with nutrients, and the bacterium turned them into energy. Hence the name: “endo” means inside, and “symbiosis” means living together to the benefit of both.\nBy the way, the same thing happened to chloroplasts, the organelles that make plants green. They were once bacteria too, just a different kind: cyanobacteria that could photosynthesize.\n\n\n\nMitochondria came from an alphaproteobacterium; chloroplasts, later, from a cyanobacterium. (AI-generated image)\n\n\nIt would be logical to assume that the other organelles were once bacteria too, swallowed by big Pac-Men. But that is not the case. According to the leading hypothesis, the endoplasmic reticulum, lysosomes and the Golgi apparatus were “molded” out of the cell’s own membrane. Imagine pressing your finger into a balloon: a pocket forms on the surface. If the edges of the pocket closed and it pinched off, you would get a separate bubble wrapped in its own film. That is how, fold by fold, the cell acquired its internal compartments. And that is why these organelles have no DNA of their own, unlike mitochondria, which arrived from outside with theirs."
+  },
+  {
+    "objectID": "posts/003-mitochondria/index.html#moving-out-of-a-dangerous-neighborhood",
+    "href": "posts/003-mitochondria/index.html#moving-out-of-a-dangerous-neighborhood",
+    "title": "The tenants inside every cell",
+    "section": "Moving out of a dangerous neighborhood",
+    "text": "Moving out of a dangerous neighborhood\nBut why did almost all the genes move to the nucleus instead of staying inside the mitochondria? The thing is, it is dangerous in there. When mitochondria produce energy, electrons are passed along their inner membrane, like on a conveyor belt. Sometimes an electron jumps off the belt too early and collides with oxygen. This produces unstable, aggressive molecules, such as superoxide or hydrogen peroxide. You can think of them as sparks from a stove that burn through everything nearby.\nInside the nucleus, DNA is safe: it is separated from the rest of the cell by the nuclear envelope, which has two membranes, and it is tightly packed and wound around protective proteins. Mitochondrial DNA, on the other hand, lies right next to the “stove” and is almost “naked”. Moreover, DNA repair systems are weaker in mitochondria than in the nucleus, so some of the damage stays unrepaired.\nAs a result, only 37 genes remain in human mitochondrial DNA (Anderson et al. 1981). It is more beneficial to keep them inside, so that each organelle can adjust its energy production to its own needs without waiting for a command from the nucleus (Allen 2015).\n\nThese 37 genes are where my December project begins. I am going to take the mitochondrial genomes of humans, mice, fish, flies and yeast and analyze them: why the yeast genome is several times longer than ours even though it has almost the same number of genes, what order the genes are in around the ring, and how mitochondria read the genetic code in their own way, slightly differently from the rest of the cell."
+  },
+  {
+    "objectID": "posts/003-mitochondria/index.html#hand-me-downs-from-mom",
+    "href": "posts/003-mitochondria/index.html#hand-me-downs-from-mom",
+    "title": "The tenants inside every cell",
+    "section": "Hand-me-downs from Mom",
+    "text": "Hand-me-downs from Mom\nAnd here is a fact that surprised me even more: we inherit almost all of our mitochondria from our moms! A child gets half of its nuclear DNA from its dad, but everything else in the cell, including the mitochondria, comes from the egg. In fact, the egg holds the record for mitochondria: a single egg contains about a hundred thousand of them (Babayev and Seli 2015)!\nA sperm cell has mitochondria too — they sit at the base of its tail, where they power its swim to the finish line. But after fertilization, the mother’s egg marks the father’s mitochondria as unnecessary, and they are soon destroyed (Sutovsky et al. 1999). Meanwhile, the egg’s own mitochondria remain and supply the embryo’s first cells with energy while they are still in fieri. So that is yet another reason to thank your mom!\n\n\n\nMitochondrial DNA passes only down the maternal line: sons inherit it but don’t pass it on. (AI-generated image)"
+  },
+  {
+    "objectID": "posts/003-mitochondria/index.html#summing-up",
+    "href": "posts/003-mitochondria/index.html#summing-up",
+    "title": "The tenants inside every cell",
+    "section": "Summing up",
+    "text": "Summing up\nPut it all together, and it sounds almost like science fiction: every one of our cells is home to the descendants of bacteria that were once swallowed but never digested. They still keep their own DNA, work for us, and are passed down only from our mothers. In school, the mitochondrion was just a line for me: “the powerhouse of the cell”. It turned out to be a two-billion-year-long story.\nI wonder what else in the cell will turn out to be different from how it’s drawn in diagrams."
   },
   {
     "objectID": "posts/002-week-1/index.html",
@@ -98,46 +140,46 @@
     "text": "Next week\n\nMissing Semester (lectures 2 — 7)\nThe Linux Command Line (chapters 1–5)\nPython for Data Analysis (chapters 1–2)\nSolve some Rosalind problems\nMock IELTS\nHigh School Biology every day\n3Blue1Brown (lessons 7–16)"
   },
   {
-    "objectID": "posts/003-mitochondria/index.html",
-    "href": "posts/003-mitochondria/index.html",
-    "title": "The tenants inside every cell",
+    "objectID": "posts/005-week-4/index.html",
+    "href": "posts/005-week-4/index.html",
+    "title": "Week 4: outrun by Rabbits",
     "section": "",
-    "text": "Two billion years later, the tenants are still paying rent in ATP.\n“The mitochondria is the powerhouse of the cell” is pretty much all I remembered from school biology. Then I started learning it properly and found out that this little organelle has its own DNA, a two-billion-year-old backstory, and a very particular way of being passed down in families. Here’s what surprised me most."
+    "text": "Deoxyribose is just ribose minus one oxygen. Me after a 5 km run: same."
   },
   {
-    "objectID": "posts/003-mitochondria/index.html#more-than-a-powerhouse",
-    "href": "posts/003-mitochondria/index.html#more-than-a-powerhouse",
-    "title": "The tenants inside every cell",
-    "section": "More than a powerhouse",
-    "text": "More than a powerhouse\nOur cells contain different parts, and each of them has its own job. These parts are called organelles. One of them, the mitochondrion, works as the “powerhouse of the cell”: it breaks down sugars, fats, and sometimes even proteins, and turns them into energy that the cell stores in molecules of adenosine triphosphate, or ATP for short.\nMitochondria are often pictured as beans floating in the fluid inside the cell, the cytosol. But in fact, they are constantly on the move: special motor proteins pull them along the cell’s “skeleton”, called the cytoskeleton. Thanks to this, mitochondria can end up exactly where energy is needed most.\nI used to think there was only one mitochondrion in a cell, because that is how cells are usually drawn in diagrams. It turns out that is not true: a cell can contain many mitochondria, and where a lot of energy is needed, there can be several thousand of them in a single cell — for example, in neurons and heart muscle cells. What’s more, mitochondria can divide and fuse with each other, adjusting their number to the cell’s needs.\n\n\n\nA human cell with its main organelles. (AI-generated image)"
+    "objectID": "posts/005-week-4/index.html#what-i-did",
+    "href": "posts/005-week-4/index.html#what-i-did",
+    "title": "Week 4: outrun by Rabbits",
+    "section": "What I did",
+    "text": "What I did\n\nMissing Semester: lecture 9 and the Data Wrangling lecture (2020 edition). This course is over, and although I didn’t do all the command-line exercises, I now know where to look if I get stuck.\nThe Linux Command Line: chapters 1–9. It picks up where Missing Semester left off but goes deeper into the different commands and nuances of the command line.\n3Blue1Brown, Essence of Linear Algebra: lessons 9–16. Some of them were like emotional rollercoasters because one minute I thought I fully understood the concept, and the next I didn’t get it at all. Interestingly, the easiest lesson for me was about eigenvalues and eigenvectors, even though the lecturer said that we have to understand all the previous topics to conceptualize this one. Maybe I am good at linear algebra after all :)\nPython for Data Analysis: chapters 1–3. I went through introductory chapters about common libraries and data structures in Python. Ready to dig into the analysis!\nKhan Academy’s High School Biology every day for 45 minutes. Still on unit 3, about the cell cycle. There are a lot of new terms, some of which sound too similar to me.\nAlberts, Molecular Biology of the Cell: went through half of chapter 6 (“From DNA to Protein”) in order to write my next article.\nRosalind problems: solved all the introductory problems in Python Village and did 6 problems in Bioinformatics Stronghold.\nEnglish: I started learning vocabulary for Writing Task 1 to describe graphs more easily. Also I recorded myself speaking for 2 minutes for Speaking Part 2. I don’t think I made huge progress this week, but speaking definitely feels less awkward now.\nOutside bioengineering: ran a 5K race in 39 minutes — both goals done: no walking and under 40 minutes!"
   },
   {
-    "objectID": "posts/003-mitochondria/index.html#swallowed-but-not-broken",
-    "href": "posts/003-mitochondria/index.html#swallowed-but-not-broken",
-    "title": "The tenants inside every cell",
-    "section": "Swallowed but not broken",
-    "text": "Swallowed but not broken\nHere is one of the most surprising facts: mitochondria have their own DNA! And it is not like the DNA stored in the nucleus. Nuclear DNA is organized into long chromosomes and tucked away behind the nuclear envelope, while mitochondrial DNA is a small ring that lies right inside the organelle. Bacteria have similar circular DNA — and that is no coincidence.\nThis is explained by the endosymbiotic theory (Roger et al. 2017). About two billion years ago, the ancestors of mitochondria were independent bacteria. At some point a larger cell engulfed one of these bacteria, but did not digest it, and the bacterium stayed alive inside. The result was a mutually beneficial partnership: the larger cell supplied the bacterium with nutrients, and the bacterium turned them into energy. Hence the name: “endo” means inside, and “symbiosis” means living together to the benefit of both.\nBy the way, the same thing happened to chloroplasts, the organelles that make plants green. They were once bacteria too, just a different kind: cyanobacteria that could photosynthesize.\n\n\n\nMitochondria came from an alphaproteobacterium; chloroplasts, later, from a cyanobacterium. (AI-generated image)\n\n\nIt would be logical to assume that the other organelles were once bacteria too, swallowed by big Pac-Men. But that is not the case. According to the leading hypothesis, the endoplasmic reticulum, lysosomes and the Golgi apparatus were “molded” out of the cell’s own membrane. Imagine pressing your finger into a balloon: a pocket forms on the surface. If the edges of the pocket closed and it pinched off, you would get a separate bubble wrapped in its own film. That is how, fold by fold, the cell acquired its internal compartments. And that is why these organelles have no DNA of their own, unlike mitochondria, which arrived from outside with theirs."
+    "objectID": "posts/005-week-4/index.html#what-clicked",
+    "href": "posts/005-week-4/index.html#what-clicked",
+    "title": "Week 4: outrun by Rabbits",
+    "section": "What clicked",
+    "text": "What clicked\n\nLast week I started diving deep into molecular biology and how DNA and RNA are structured, using a diagram. And this week in Alberts I read that RNA contains ribose instead of deoxyribose, and that diagram popped into my head — great feeling.\nI realized how well Rosalind is designed. First, you work on your algorithmic thinking. Second, you get molecular biology knowledge as you go. And finally, since the problems are so specific, you feel like a real scientist rather than someone solving abstract puzzles."
   },
   {
-    "objectID": "posts/003-mitochondria/index.html#moving-out-of-a-dangerous-neighborhood",
-    "href": "posts/003-mitochondria/index.html#moving-out-of-a-dangerous-neighborhood",
-    "title": "The tenants inside every cell",
-    "section": "Moving out of a dangerous neighborhood",
-    "text": "Moving out of a dangerous neighborhood\nBut why did almost all the genes move to the nucleus instead of staying inside the mitochondria? The thing is, it is dangerous in there. When mitochondria produce energy, electrons are passed along their inner membrane, like on a conveyor belt. Sometimes an electron jumps off the belt too early and collides with oxygen. This produces unstable, aggressive molecules, such as superoxide or hydrogen peroxide. You can think of them as sparks from a stove that burn through everything nearby.\nInside the nucleus, DNA is safe: it is separated from the rest of the cell by the nuclear envelope, which has two membranes, and it is tightly packed and wound around protective proteins. Mitochondrial DNA, on the other hand, lies right next to the “stove” and is almost “naked”. Moreover, DNA repair systems are weaker in mitochondria than in the nucleus, so some of the damage stays unrepaired.\nAs a result, only 37 genes remain in human mitochondrial DNA (Anderson et al. 1981). It is more beneficial to keep them inside, so that each organelle can adjust its energy production to its own needs without waiting for a command from the nucleus (Allen 2015).\n\nThese 37 genes are where my December project begins. I am going to take the mitochondrial genomes of humans, mice, fish, flies and yeast and analyze them: why the yeast genome is several times longer than ours even though it has almost the same number of genes, what order the genes are in around the ring, and how mitochondria read the genetic code in their own way, slightly differently from the rest of the cell."
+    "objectID": "posts/005-week-4/index.html#where-i-got-stuck",
+    "href": "posts/005-week-4/index.html#where-i-got-stuck",
+    "title": "Week 4: outrun by Rabbits",
+    "section": "Where I got stuck",
+    "text": "Where I got stuck\nThe prize for the worst feeling of the week goes to the Rosalind problem Rabbits and Recurrence Relations. It is a basic algorithmic problem where you have to count how many rabbits there will be after N months, and I spent a huge amount of time trying to solve it. The solution was pretty simple, but I should solve this kind of task with pen and paper first.\nI also did not complete the English tasks I expected to finish. But in my defense, I did speak English for at least 14 minutes, which still counts."
   },
   {
-    "objectID": "posts/003-mitochondria/index.html#hand-me-downs-from-mom",
-    "href": "posts/003-mitochondria/index.html#hand-me-downs-from-mom",
-    "title": "The tenants inside every cell",
-    "section": "Hand-me-downs from Mom",
-    "text": "Hand-me-downs from Mom\nAnd here is a fact that surprised me even more: we inherit almost all of our mitochondria from our moms! A child gets half of its nuclear DNA from its dad, but everything else in the cell, including the mitochondria, comes from the egg. In fact, the egg holds the record for mitochondria: a single egg contains about a hundred thousand of them (Babayev and Seli 2015)!\nA sperm cell has mitochondria too — they sit at the base of its tail, where they power its swim to the finish line. But after fertilization, the mother’s egg marks the father’s mitochondria as unnecessary, and they are soon destroyed (Sutovsky et al. 1999). Meanwhile, the egg’s own mitochondria remain and supply the embryo’s first cells with energy while they are still in fieri. So that is yet another reason to thank your mom!\n\n\n\nMitochondrial DNA passes only down the maternal line: sons inherit it but don’t pass it on. (AI-generated image)"
+    "objectID": "posts/005-week-4/index.html#what-im-changing",
+    "href": "posts/005-week-4/index.html#what-im-changing",
+    "title": "Week 4: outrun by Rabbits",
+    "section": "What I’m changing",
+    "text": "What I’m changing\nNext week I am going to be on vacation, so I expect to study a bit less, try to relax and come back with more energy."
   },
   {
-    "objectID": "posts/003-mitochondria/index.html#summing-up",
-    "href": "posts/003-mitochondria/index.html#summing-up",
-    "title": "The tenants inside every cell",
-    "section": "Summing up",
-    "text": "Summing up\nPut it all together, and it sounds almost like science fiction: every one of our cells is home to the descendants of bacteria that were once swallowed but never digested. They still keep their own DNA, work for us, and are passed down only from our mothers. In school, the mitochondrion was just a line for me: “the powerhouse of the cell”. It turned out to be a two-billion-year-long story.\nI wonder what else in the cell will turn out to be different from how it’s drawn in diagrams."
+    "objectID": "posts/005-week-4/index.html#next-week",
+    "href": "posts/005-week-4/index.html#next-week",
+    "title": "Week 4: outrun by Rabbits",
+    "section": "Next week",
+    "text": "Next week\n\nWrite an article “From genes to proteins”\nThe Linux Command Line: chapters 10–15\nPython for Data Analysis: chapter 4\n3 Rosalind problems\nSolve linear algebra problems: 3 times a week for 20 minutes\nKhan Academy’s High School Biology every day\nA lot of English"
   },
   {
     "objectID": "posts/004-week-3/index.html",
