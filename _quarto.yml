@@ -17,6 +17,7 @@ website:
     logo-alt: "semper in fieri"
     right:
       - about.qmd
+      - done.qmd
       - icon: github
         href: https://github.com/semper-infieri
         aria-label: GitHub
@@ -37,6 +38,7 @@ format:
     theme: [cosmo, custom.scss]
     css: styles.css
     anchor-sections: false
+    link-external-newwindow: true
     include-after-body:
       - partials/menu-close.html
       - partials/links.html

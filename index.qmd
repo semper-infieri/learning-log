@@ -16,12 +16,14 @@ listing:
 I spent eight years making websites work. Now I'm heading toward bioengineering: single-cell data, brain tissue, and the tools that make sense of them.
 
 ## What I'm learning now
-- Linear algebra — [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) by 3Blue1Brown
-- The command line and dev tooling — [MIT Missing Semester](https://missing.csail.mit.edu/)
-- Biology from the ground up — [Khan Academy High School Biology](https://www.khanacademy.org/science/high-school-biology)
+
+- The command line in depth — [The Linux Command Line](https://linuxcommand.org/tlcl.php) by William Shotts
+- Python for data work — [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney
+- Algorithms on real biological data — [Rosalind](https://rosalind.info), Bioinformatics Stronghold
+- Biology from the ground up — [Khan Academy High School Biology](https://www.khanacademy.org/science/hs-bio)
 
 
-Next up: Python and R for data analysis, then statistics and single-cell workflows.
+Next up: probability and statistics, then R and single-cell workflows.
 
 ::: {.latest-section}
 ## Latest

@@ -584,6 +584,41 @@ main.content.quarto-banner-title-block > section > * {
   max-width: 38rem;
 }
 
+// Done: узкая колонка как на About; под названием курса — строка
+// «сайт · когда · пост» мелким приглушённым текстом, ниже — takeaway
+.done-page main.content {
+  > *,
+  section > * {
+    max-width: 38rem;
+  }
+
+  // название курса мельче заголовка года
+  h3 {
+    margin-top: 1.75rem;
+    margin-bottom: .35rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  // первый курс сразу под годом. Quarto оборачивает каждый h3 в свой section
+  h2 + section h3 {
+    margin-top: .75rem;
+  }
+
+  h3 + p {
+    margin-bottom: .6rem;
+    font-size: .875rem;
+    color: rgba($ink, .6);
+  }
+}
+
+// подзаголовок страницы из description: отступ от заголовка и приглушённый цвет
+.done-page #title-block-header .description {
+  margin-top: .5rem;
+  font-size: 1.1rem;
+  color: rgba($ink, .7);
+}
+
 // ряд ссылок на соцсети внизу About
 .about-links p {
   display: flex;

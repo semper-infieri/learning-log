@@ -1,0 +1,22 @@
+---
+title: "Done"
+description: "Courses and books I've finished, and what each one gave me."
+page-layout: full
+body-classes: done-page
+image: og-image.jpg
+---
+
+A running list of what I've completed on the way to bioengineering.
+Newest first.
+
+## 2026
+
+### MIT Missing Semester
+[missing.csail.mit.edu](https://missing.csail.mit.edu/) · finished October 2026 · [Week 4 post](posts/005-week-4/index.qmd)
+
+I came in with the same ten git and shell commands I'd used for eight years and left with a map of everything else, so now I know where to look when I get stuck. The surprise was "Beyond the Code", an honest talk about the soft skills around programming that I'd recommend to developers at any level.
+
+### Essence of Linear Algebra — 3Blue1Brown
+[3blue1brown.com](https://www.3blue1brown.com/topics/linear-algebra) · finished October 2026 · [Week 4 post](posts/005-week-4/index.qmd)
+
+Geometry is my weak spot, so the visual approach was a rollercoaster: one minute a concept made sense, the next it didn't. Yet eigenvalues and eigenvectors, supposedly the hardest topic, turned out to be the easiest for me, and I stopped worrying about spatial pictures, since the data I'll work with has hundreds of dimensions nobody can picture anyway.
