@@ -47,7 +47,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c403c08d75939f6dbb85e191356d4f46.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-69998b172c85506b533648ef2eba1f92.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -171,6 +171,10 @@ window.Quarto = {
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./done.html"> 
+<span class="menu-text">Done</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/semper-infieri" target="_blank"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
@@ -229,11 +233,12 @@ window.Quarto = {
 <section id="what-im-learning-now" class="level2">
 <h2 data-anchor-id="what-im-learning-now">What I’m learning now</h2>
 <ul>
-<li>Linear algebra — <a href="https://www.3blue1brown.com/topics/linear-algebra">Essence of Linear Algebra</a> by 3Blue1Brown</li>
-<li>The command line and dev tooling — <a href="https://missing.csail.mit.edu/">MIT Missing Semester</a></li>
-<li>Biology from the ground up — <a href="https://www.khanacademy.org/science/high-school-biology">Khan Academy High School Biology</a></li>
+<li>The command line in depth — <a href="https://linuxcommand.org/tlcl.php">The Linux Command Line</a> by William Shotts</li>
+<li>Python for data work — <a href="https://wesmckinney.com/book/">Python for Data Analysis</a> by Wes McKinney</li>
+<li>Algorithms on real biological data — <a href="https://rosalind.info">Rosalind</a>, Bioinformatics Stronghold</li>
+<li>Biology from the ground up — <a href="https://www.khanacademy.org/science/hs-bio">Khan Academy High School Biology</a></li>
 </ul>
-<p>Next up: Python and R for data analysis, then statistics and single-cell workflows.</p>
+<p>Next up: probability and statistics, then R and single-cell workflows.</p>
 </section>
 <section id="latest" class="level2 latest-section">
 <h2 data-anchor-id="latest">Latest</h2>
@@ -503,6 +508,11 @@ document.querySelectorAll(".citation[data-cites]").forEach(function (c) {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
