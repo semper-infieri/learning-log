@@ -19,7 +19,7 @@ Deoxyribose is just ribose minus one oxygen. Me after a 5 km run: same.
 - **Khan Academy's High School Biology** every day for 45 minutes. Still on unit 3, about the cell cycle. There are a lot of new terms, some of which sound too similar to me.
 - **Alberts, Molecular Biology of the Cell**: went through half of chapter 6 ("From DNA to Protein") in order to write my next article. 
 - **Rosalind problems**: solved all the introductory problems in *Python Village* and did 6 problems in *Bioinformatics Stronghold*.
-- **English**: I started learning vocabulary for Writing Task 1 to describe graphs more easily. Also I recorded myself speaking for 2 minutes for Speaking Part 2. I don’t think I made huge progress this week, but speaking definitely feels less awkward now. 
+- **English**: I started learning vocabulary for Writing Task 1 to describe graphs more easily, and worked through units 1–5 of *Grammar in Use Intermediate* and unit 1 of *Academic Vocabulary in Use*. Also I recorded myself speaking for 2 minutes for Speaking Part 2. I don’t think I made huge progress this week, but speaking definitely feels less awkward now. 
 - **Outside bioengineering**: ran a 5K race in 39 minutes — both goals done: no walking and under 40 minutes! 
 
 ## What clicked

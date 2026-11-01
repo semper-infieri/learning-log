@@ -1,0 +1,29 @@
+---
+title: "Timeline"
+description: "Month by month: what I finished, what moved forward, and what happened along the way. Newest first."
+page-layout: full
+body-classes: timeline-page
+image: og-image.jpg
+---
+
+## October 2026
+
+**Finished:** [MIT Missing Semester](https://missing.csail.mit.edu/), [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra), Rosalind's Python Village. More on the [Done](done.qmd) page.
+
+- **Command line**: *The Linux Command Line*, chapters 1–13 — from the basics to processes, the environment, vi and the prompt.
+- **Python**: *Python for Data Analysis*, chapters 1–3.
+- **Rosalind**: all of Python Village and 9 problems in Bioinformatics Stronghold.
+- **Biology**: finished units 2 and 3 of Khan Academy's High School Biology (organ systems; the cell cycle and differentiation) and read half of chapter 6 of Alberts' *Molecular Biology of the Cell*.
+- **English**: a mock IELTS baseline of around 6.0 (the goal is 7.5 by next September), *Grammar in Use* units 1–10, *Academic Vocabulary in Use* unit 1, and two minutes of speaking practice a day.
+- **Writing**: [a deep dive into mitochondria](posts/003-mitochondria/index.qmd) and weekly logs for weeks [1–2](posts/002-week-1/index.qmd), [3](posts/004-week-3/index.qmd), [4](posts/005-week-4/index.qmd) and 5.
+- **Outside bioengineering**: a 5K race in 39 minutes with no walking, a week of vacation, and a GitHub profile tidied up.
+
+## September 2026
+
+**Started:** [the plan: fifteen weeks to January](posts/001-until-new-year/index.qmd).
+
+- **Command line**: the first lecture of Missing Semester, on the shell.
+- **Linear algebra**: the first six videos of *Essence of Linear Algebra*.
+- **Biology**: Khan Academy's High School Biology every day, 30–35 minutes before work.
+- **This blog**: Quarto, a GitHub repo and far too much time spent picking a logo.
+- **Outside bioengineering**: three runs and two strength sessions a week.

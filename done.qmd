@@ -1,13 +1,10 @@
 ---
 title: "Done"
-description: "Courses and books I've finished, and what each one gave me."
+description: "A running list of what I've completed on the way to bioengineering. Newest first."
 page-layout: full
 body-classes: done-page
 image: og-image.jpg
 ---
-
-A running list of what I've completed on the way to bioengineering.
-Newest first.
 
 ## 2026
 

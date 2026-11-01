@@ -612,7 +612,57 @@ main.content.quarto-banner-title-block > section > * {
   }
 }
 
+// Timeline: каждый месяц (## …) — точка на вертикальной линии.
+// Quarto сам оборачивает каждый ## в section.level2 — его и рисуем
+.timeline-page main.content {
+  section.level2 {
+    position: relative;
+    max-width: 38rem;
+    margin: 1.5rem 0 0 .4rem;
+    padding: 0 0 2.5rem 1.75rem;
+    border-left: 2px solid rgba($emerald, .15);
+
+    // месяцы вплотную друг к другу — линия идёт без разрывов
+    & + section.level2 {
+      margin-top: 0;
+    }
+
+    // точка месяца: контур, у самого свежего месяца — залитая
+    &::before {
+      content: "";
+      position: absolute;
+      top: .35rem;
+      left: -8px;
+      width: 14px;
+      height: 14px;
+      border: 2px solid $rose;
+      border-radius: 50%;
+      background: $paper;
+    }
+
+    &:first-of-type::before {
+      background: $rose;
+    }
+
+    // у последнего месяца линия доходит до точки и обрывается
+    &:last-of-type {
+      border-image: linear-gradient(rgba($emerald, .15) .8rem, transparent .8rem) 1;
+      padding-bottom: 0;
+    }
+
+    h2 {
+      margin-top: 0;
+      font-size: 1.2rem;
+    }
+
+    ul {
+      padding-left: 1.1rem;
+    }
+  }
+}
+
 // подзаголовок страницы из description: отступ от заголовка и приглушённый цвет
+.timeline-page #title-block-header .description,
 .done-page #title-block-header .description {
   margin-top: .5rem;
   font-size: 1.1rem;
