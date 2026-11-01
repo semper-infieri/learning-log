@@ -1,66 +1,52 @@
 [
   {
-    "objectID": "done.html",
-    "href": "done.html",
-    "title": "Done",
+    "objectID": "timeline.html",
+    "href": "timeline.html",
+    "title": "Timeline",
     "section": "",
-    "text": "A running list of what I’ve completed on the way to bioengineering. Newest first."
+    "text": "Finished: MIT Missing Semester, Essence of Linear Algebra, Rosalind’s Python Village. More on the Done page.\n\nCommand line: The Linux Command Line, chapters 1–13 — from the basics to processes, the environment, vi and the prompt.\nPython: Python for Data Analysis, chapters 1–3.\nRosalind: all of Python Village and 9 problems in Bioinformatics Stronghold.\nBiology: finished units 2 and 3 of Khan Academy’s High School Biology (organ systems; the cell cycle and differentiation) and read half of chapter 6 of Alberts’ Molecular Biology of the Cell.\nEnglish: a mock IELTS baseline of around 6.0 (the goal is 7.5 by next September), Grammar in Use units 1–10, Academic Vocabulary in Use unit 1, and two minutes of speaking practice a day.\nWriting: a deep dive into mitochondria and weekly logs for weeks 1–2, 3, 4 and 5.\nOutside bioengineering: a 5K race in 39 minutes with no walking, a week of vacation, and a GitHub profile tidied up."
   },
   {
-    "objectID": "done.html#section",
-    "href": "done.html#section",
-    "title": "Done",
-    "section": "2026",
-    "text": "2026\n\nMIT Missing Semester\nmissing.csail.mit.edu · finished October 2026 · Week 4 post\nI came in with the same ten git and shell commands I’d used for eight years and left with a map of everything else, so now I know where to look when I get stuck. The surprise was “Beyond the Code”, an honest talk about the soft skills around programming that I’d recommend to developers at any level.\n\n\nEssence of Linear Algebra — 3Blue1Brown\n3blue1brown.com · finished October 2026 · Week 4 post\nGeometry is my weak spot, so the visual approach was a rollercoaster: one minute a concept made sense, the next it didn’t. Yet eigenvalues and eigenvectors, supposedly the hardest topic, turned out to be the easiest for me, and I stopped worrying about spatial pictures, since the data I’ll work with has hundreds of dimensions nobody can picture anyway."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "timeline.html#october-2026",
+    "href": "timeline.html#october-2026",
+    "title": "Timeline",
     "section": "",
-    "text": "I spent eight years making websites work. At some point I realized I didn’t want to spend the rest of my life changing the color of buttons.\nMy interest in biology was always there, but it was quiet. As a teenager, I watched ER, Grey’s Anatomy, and House, M.D., and loved the moments when someone dug into a problem nobody understood and found an answer that changed a patient’s life. At school, though, science didn’t click: chemistry a little, biology and physics not at all. Years later, I got curious about how the body actually works, and that curiosity kept pulling me deeper.\nI thought about medicine, but years of training felt out of reach. Becoming a scientist wasn’t something people around me even considered: the pay was tiny, and you rarely heard what researchers were actually working on. I liked programming, so I built websites.\nNow biology is becoming a data science, and that’s exactly where I want to be. Bioinformatics is my way in, then a master’s degree, with bioengineering as the goal.\nOf course I’d love to change the world and cure every disease. But if I end up doing hard, meaningful work and doing it well, that will be more than enough.\nThis site is my open log: what I study each week, what I build, and where I get stuck.\nOutside of the lab-to-be, I’m learning to run, which turns out to be just as humbling as learning biology.\n\n GitHub  Bluesky  LinkedIn  Email"
+    "text": "Finished: MIT Missing Semester, Essence of Linear Algebra, Rosalind’s Python Village. More on the Done page.\n\nCommand line: The Linux Command Line, chapters 1–13 — from the basics to processes, the environment, vi and the prompt.\nPython: Python for Data Analysis, chapters 1–3.\nRosalind: all of Python Village and 9 problems in Bioinformatics Stronghold.\nBiology: finished units 2 and 3 of Khan Academy’s High School Biology (organ systems; the cell cycle and differentiation) and read half of chapter 6 of Alberts’ Molecular Biology of the Cell.\nEnglish: a mock IELTS baseline of around 6.0 (the goal is 7.5 by next September), Grammar in Use units 1–10, Academic Vocabulary in Use unit 1, and two minutes of speaking practice a day.\nWriting: a deep dive into mitochondria and weekly logs for weeks 1–2, 3, 4 and 5.\nOutside bioengineering: a 5K race in 39 minutes with no walking, a week of vacation, and a GitHub profile tidied up."
   },
   {
-    "objectID": "posts/004-week-3/index.html",
-    "href": "posts/004-week-3/index.html",
-    "title": "Week 3: Missing Semester, almost found",
+    "objectID": "timeline.html#september-2026",
+    "href": "timeline.html#september-2026",
+    "title": "Timeline",
+    "section": "September 2026",
+    "text": "September 2026\nStarted: the plan: fifteen weeks to January.\n\nCommand line: the first lecture of Missing Semester, on the shell.\nLinear algebra: the first six videos of Essence of Linear Algebra.\nBiology: Khan Academy’s High School Biology every day, 30–35 minutes before work.\nThis blog: Quarto, a GitHub repo and far too much time spent picking a logo.\nOutside bioengineering: three runs and two strength sessions a week."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "All posts",
     "section": "",
-    "text": "I estimated Missing Semester the way every developer estimates a task: “it’ll take a couple of days.”"
+    "text": "Week 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/004-week-3/index.html#what-i-did",
-    "href": "posts/004-week-3/index.html#what-i-did",
-    "title": "Week 3: Missing Semester, almost found",
-    "section": "What I did",
-    "text": "What I did\n\nA deep dive into mitochondria for this blog: why they have their own DNA and how a swallowed bacterium became part of every animal cell.\nMissing Semester: lectures 2–8. Seven lectures in one week, and the course is nearly finished: one lecture and one bonus topic left. To be honest, I only watched the lectures and read the notes, without doing the exercises. I don’t see much point in inventing artificial terminal tasks for myself — I’d rather practice when a real need comes up.\n3Blue1Brown, Essence of Linear Algebra: lessons 7–8 — inverse matrices, column space and null space, and non-square matrices as transformations between dimensions.\nKhan Academy’s High School Biology every day for 40 minutes. I finished the second unit, on organ systems.\nMock IELTS, all four parts, to get an honest baseline for my English plan. I’m around 6.0 overall on a mock test; the goal is 7.5 by next September.\nOutside bioengineering: three runs this week getting ready for my 5K race on October 18, a lecture on Van Gogh, university biology lectures as a soundtrack for my walks, and a day with my partner’s grandmother for her birthday."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning to read cells",
+    "section": "",
+    "text": "I spent eight years making websites work. Now I’m heading toward bioengineering: single-cell data, brain tissue, and the tools that make sense of them."
   },
   {
-    "objectID": "posts/004-week-3/index.html#what-clicked",
-    "href": "posts/004-week-3/index.html#what-clicked",
-    "title": "Week 3: Missing Semester, almost found",
-    "section": "What clicked",
-    "text": "What clicked\n\nEvolution is not a design. While studying biology, everything looks perfectly tuned: every system connected to every other, almost like magic. Then it hits you — it’s survivorship bias. We only see the organisms whose variations happened to work; the rest simply didn’t make it.\nMitochondria happened once. Every organism that has mitochondria — me, a mushroom, an oak tree, an amoeba — descends from one and the same ancestral cell. A blue whale and the yeast in my bread are distant cousins.\n“Beyond the Code” turned out to be my favorite lecture of Missing Semester. I expected another lecture about tools, and got an honest talk about the soft skills around programming instead. It’s the lecture I’d recommend to every beginner developer — and after eight years in frontend, I’d recommend it to experienced ones too."
+    "objectID": "index.html#what-im-learning-now",
+    "href": "index.html#what-im-learning-now",
+    "title": "Learning to read cells",
+    "section": "What I’m learning now",
+    "text": "What I’m learning now\n\nThe command line in depth — The Linux Command Line by William Shotts\nPython for data work — Python for Data Analysis by Wes McKinney\nAlgorithms on real biological data — Rosalind, Bioinformatics Stronghold\nBiology from the ground up — Khan Academy High School Biology\n\nNext up: probability and statistics, then R and single-cell workflows."
   },
   {
-    "objectID": "posts/004-week-3/index.html#where-i-got-stuck",
-    "href": "posts/004-week-3/index.html#where-i-got-stuck",
-    "title": "Week 3: Missing Semester, almost found",
-    "section": "Where I got stuck",
-    "text": "Where I got stuck\nThe mock IELTS confirmed something obvious: when you don’t live in an English-speaking environment, active skills suffer the most. I read and listen to English a lot, so Listening and Reading held up reasonably well. But I rarely have to speak or write it, and it shows: in Speaking I run out of words when I have to talk for two minutes straight, and in Writing my ideas are fine, but the language stays simpler than I’d like."
-  },
-  {
-    "objectID": "posts/004-week-3/index.html#what-im-changing",
-    "href": "posts/004-week-3/index.html#what-im-changing",
-    "title": "Week 3: Missing Semester, almost found",
-    "section": "What I’m changing",
-    "text": "What I’m changing\nMost of the changes this week are about English: that’s where the mock IELTS showed the biggest gap.\n\nSpeaking every day, even if only for two minutes. I take one IELTS Part 2 card, set a timer, and talk with my phone recording. Once a week I transcribe one recording and go through the mistakes. Two minutes sounds like nothing, but it’s two minutes more than I used to speak English.\nWriting on a schedule. One IELTS task every two weeks, alternating Task 1 and Task 2, each reviewed for mistakes.\nGrammar and vocabulary from the ground up. I’m going through Cambridge’s “in Use” series cover to cover, starting with English Grammar in Use and Academic Vocabulary in Use. They are not exciting, but active skills need something to build on.\nA real teacher from November. Recordings and books are a good start, but nothing replaces a live conversation."
-  },
-  {
-    "objectID": "posts/004-week-3/index.html#next-week",
-    "href": "posts/004-week-3/index.html#next-week",
-    "title": "Week 3: Missing Semester, almost found",
-    "section": "Next week",
-    "text": "Next week\n\nMissing Semester: lecture 9 and the Data Wrangling lecture from 2020 — finishing the course\nThe Linux Command Line: chapters 1–10\nPython for Data Analysis: chapters 1–3\nA few Rosalind problems\nKhan Academy’s High School Biology every day\n3Blue1Brown: lessons 9–16 — finishing the series\nA lot of English"
+    "objectID": "index.html#latest",
+    "href": "index.html#latest",
+    "title": "Learning to read cells",
+    "section": "Latest",
+    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
   },
   {
     "objectID": "posts/005-week-4/index.html",
@@ -74,7 +60,7 @@
     "href": "posts/005-week-4/index.html#what-i-did",
     "title": "Week 4: outrun by Rabbits",
     "section": "What I did",
-    "text": "What I did\n\nMissing Semester: lecture 9 and the Data Wrangling lecture (2020 edition). This course is over, and although I didn’t do all the command-line exercises, I now know where to look if I get stuck.\nThe Linux Command Line: chapters 1–9. It picks up where Missing Semester left off but goes deeper into the different commands and nuances of the command line.\n3Blue1Brown, Essence of Linear Algebra: lessons 9–16. Some of them were like emotional rollercoasters because one minute I thought I fully understood the concept, and the next I didn’t get it at all. Interestingly, the easiest lesson for me was about eigenvalues and eigenvectors, even though the lecturer said that we have to understand all the previous topics to conceptualize this one. Maybe I am good at linear algebra after all :)\nPython for Data Analysis: chapters 1–3. I went through introductory chapters about common libraries and data structures in Python. Ready to dig into the analysis!\nKhan Academy’s High School Biology every day for 45 minutes. Still on unit 3, about the cell cycle. There are a lot of new terms, some of which sound too similar to me.\nAlberts, Molecular Biology of the Cell: went through half of chapter 6 (“From DNA to Protein”) in order to write my next article.\nRosalind problems: solved all the introductory problems in Python Village and did 6 problems in Bioinformatics Stronghold.\nEnglish: I started learning vocabulary for Writing Task 1 to describe graphs more easily. Also I recorded myself speaking for 2 minutes for Speaking Part 2. I don’t think I made huge progress this week, but speaking definitely feels less awkward now.\nOutside bioengineering: ran a 5K race in 39 minutes — both goals done: no walking and under 40 minutes!"
+    "text": "What I did\n\nMissing Semester: lecture 9 and the Data Wrangling lecture (2020 edition). This course is over, and although I didn’t do all the command-line exercises, I now know where to look if I get stuck.\nThe Linux Command Line: chapters 1–9. It picks up where Missing Semester left off but goes deeper into the different commands and nuances of the command line.\n3Blue1Brown, Essence of Linear Algebra: lessons 9–16. Some of them were like emotional rollercoasters because one minute I thought I fully understood the concept, and the next I didn’t get it at all. Interestingly, the easiest lesson for me was about eigenvalues and eigenvectors, even though the lecturer said that we have to understand all the previous topics to conceptualize this one. Maybe I am good at linear algebra after all :)\nPython for Data Analysis: chapters 1–3. I went through introductory chapters about common libraries and data structures in Python. Ready to dig into the analysis!\nKhan Academy’s High School Biology every day for 45 minutes. Still on unit 3, about the cell cycle. There are a lot of new terms, some of which sound too similar to me.\nAlberts, Molecular Biology of the Cell: went through half of chapter 6 (“From DNA to Protein”) in order to write my next article.\nRosalind problems: solved all the introductory problems in Python Village and did 6 problems in Bioinformatics Stronghold.\nEnglish: I started learning vocabulary for Writing Task 1 to describe graphs more easily, and worked through units 1–5 of Grammar in Use Intermediate and unit 1 of Academic Vocabulary in Use. Also I recorded myself speaking for 2 minutes for Speaking Part 2. I don’t think I made huge progress this week, but speaking definitely feels less awkward now.\nOutside bioengineering: ran a 5K race in 39 minutes — both goals done: no walking and under 40 minutes!"
   },
   {
     "objectID": "posts/005-week-4/index.html#what-clicked",
@@ -217,31 +203,66 @@
     "text": "What success looks like in December\n\nI can work in the terminal without googling every command.\nPython for Data Analysis and 30 Rosalind problems are done, and pandas feels like a tool, not a puzzle.\nHigh School Biology on Khan Academy is finished.\nMy first pull request is submitted, merged or not.\nThe December project is published here, with code and plots.\nThere’s a weekly log for every week, including the ones that went badly.\nMy third 5K race in October, run better than the first two.\nAn 8K race in December — the longest distance I’ll have actually run, not walked.\n\nIf I get most of this done, the plan worked. If I don’t, the log will show exactly where it broke, and that’s useful too."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning to read cells",
+    "objectID": "posts/004-week-3/index.html",
+    "href": "posts/004-week-3/index.html",
+    "title": "Week 3: Missing Semester, almost found",
     "section": "",
-    "text": "I spent eight years making websites work. Now I’m heading toward bioengineering: single-cell data, brain tissue, and the tools that make sense of them."
+    "text": "I estimated Missing Semester the way every developer estimates a task: “it’ll take a couple of days.”"
   },
   {
-    "objectID": "index.html#what-im-learning-now",
-    "href": "index.html#what-im-learning-now",
-    "title": "Learning to read cells",
-    "section": "What I’m learning now",
-    "text": "What I’m learning now\n\nThe command line in depth — The Linux Command Line by William Shotts\nPython for data work — Python for Data Analysis by Wes McKinney\nAlgorithms on real biological data — Rosalind, Bioinformatics Stronghold\nBiology from the ground up — Khan Academy High School Biology\n\nNext up: probability and statistics, then R and single-cell workflows."
+    "objectID": "posts/004-week-3/index.html#what-i-did",
+    "href": "posts/004-week-3/index.html#what-i-did",
+    "title": "Week 3: Missing Semester, almost found",
+    "section": "What I did",
+    "text": "What I did\n\nA deep dive into mitochondria for this blog: why they have their own DNA and how a swallowed bacterium became part of every animal cell.\nMissing Semester: lectures 2–8. Seven lectures in one week, and the course is nearly finished: one lecture and one bonus topic left. To be honest, I only watched the lectures and read the notes, without doing the exercises. I don’t see much point in inventing artificial terminal tasks for myself — I’d rather practice when a real need comes up.\n3Blue1Brown, Essence of Linear Algebra: lessons 7–8 — inverse matrices, column space and null space, and non-square matrices as transformations between dimensions.\nKhan Academy’s High School Biology every day for 40 minutes. I finished the second unit, on organ systems.\nMock IELTS, all four parts, to get an honest baseline for my English plan. I’m around 6.0 overall on a mock test; the goal is 7.5 by next September.\nOutside bioengineering: three runs this week getting ready for my 5K race on October 18, a lecture on Van Gogh, university biology lectures as a soundtrack for my walks, and a day with my partner’s grandmother for her birthday."
   },
   {
-    "objectID": "index.html#latest",
-    "href": "index.html#latest",
-    "title": "Learning to read cells",
-    "section": "Latest",
-    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
+    "objectID": "posts/004-week-3/index.html#what-clicked",
+    "href": "posts/004-week-3/index.html#what-clicked",
+    "title": "Week 3: Missing Semester, almost found",
+    "section": "What clicked",
+    "text": "What clicked\n\nEvolution is not a design. While studying biology, everything looks perfectly tuned: every system connected to every other, almost like magic. Then it hits you — it’s survivorship bias. We only see the organisms whose variations happened to work; the rest simply didn’t make it.\nMitochondria happened once. Every organism that has mitochondria — me, a mushroom, an oak tree, an amoeba — descends from one and the same ancestral cell. A blue whale and the yeast in my bread are distant cousins.\n“Beyond the Code” turned out to be my favorite lecture of Missing Semester. I expected another lecture about tools, and got an honest talk about the soft skills around programming instead. It’s the lecture I’d recommend to every beginner developer — and after eight years in frontend, I’d recommend it to experienced ones too."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "All posts",
+    "objectID": "posts/004-week-3/index.html#where-i-got-stuck",
+    "href": "posts/004-week-3/index.html#where-i-got-stuck",
+    "title": "Week 3: Missing Semester, almost found",
+    "section": "Where I got stuck",
+    "text": "Where I got stuck\nThe mock IELTS confirmed something obvious: when you don’t live in an English-speaking environment, active skills suffer the most. I read and listen to English a lot, so Listening and Reading held up reasonably well. But I rarely have to speak or write it, and it shows: in Speaking I run out of words when I have to talk for two minutes straight, and in Writing my ideas are fine, but the language stays simpler than I’d like."
+  },
+  {
+    "objectID": "posts/004-week-3/index.html#what-im-changing",
+    "href": "posts/004-week-3/index.html#what-im-changing",
+    "title": "Week 3: Missing Semester, almost found",
+    "section": "What I’m changing",
+    "text": "What I’m changing\nMost of the changes this week are about English: that’s where the mock IELTS showed the biggest gap.\n\nSpeaking every day, even if only for two minutes. I take one IELTS Part 2 card, set a timer, and talk with my phone recording. Once a week I transcribe one recording and go through the mistakes. Two minutes sounds like nothing, but it’s two minutes more than I used to speak English.\nWriting on a schedule. One IELTS task every two weeks, alternating Task 1 and Task 2, each reviewed for mistakes.\nGrammar and vocabulary from the ground up. I’m going through Cambridge’s “in Use” series cover to cover, starting with English Grammar in Use and Academic Vocabulary in Use. They are not exciting, but active skills need something to build on.\nA real teacher from November. Recordings and books are a good start, but nothing replaces a live conversation."
+  },
+  {
+    "objectID": "posts/004-week-3/index.html#next-week",
+    "href": "posts/004-week-3/index.html#next-week",
+    "title": "Week 3: Missing Semester, almost found",
+    "section": "Next week",
+    "text": "Next week\n\nMissing Semester: lecture 9 and the Data Wrangling lecture from 2020 — finishing the course\nThe Linux Command Line: chapters 1–10\nPython for Data Analysis: chapters 1–3\nA few Rosalind problems\nKhan Academy’s High School Biology every day\n3Blue1Brown: lessons 9–16 — finishing the series\nA lot of English"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Week 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
+    "text": "I spent eight years making websites work. At some point I realized I didn’t want to spend the rest of my life changing the color of buttons.\nMy interest in biology was always there, but it was quiet. As a teenager, I watched ER, Grey’s Anatomy, and House, M.D., and loved the moments when someone dug into a problem nobody understood and found an answer that changed a patient’s life. At school, though, science didn’t click: chemistry a little, biology and physics not at all. Years later, I got curious about how the body actually works, and that curiosity kept pulling me deeper.\nI thought about medicine, but years of training felt out of reach. Becoming a scientist wasn’t something people around me even considered: the pay was tiny, and you rarely heard what researchers were actually working on. I liked programming, so I built websites.\nNow biology is becoming a data science, and that’s exactly where I want to be. Bioinformatics is my way in, then a master’s degree, with bioengineering as the goal.\nOf course I’d love to change the world and cure every disease. But if I end up doing hard, meaningful work and doing it well, that will be more than enough.\nThis site is my open log: what I study each week, what I build, and where I get stuck.\nOutside of the lab-to-be, I’m learning to run, which turns out to be just as humbling as learning biology.\n\n GitHub  Bluesky  LinkedIn  Email"
+  },
+  {
+    "objectID": "done.html",
+    "href": "done.html",
+    "title": "Done",
+    "section": "",
+    "text": "missing.csail.mit.edu · finished October 2026 · Week 4 post\nI came in with the same ten git and shell commands I’d used for eight years and left with a map of everything else, so now I know where to look when I get stuck. The surprise was “Beyond the Code”, an honest talk about the soft skills around programming that I’d recommend to developers at any level.\n\n\n\n3blue1brown.com · finished October 2026 · Week 4 post\nGeometry is my weak spot, so the visual approach was a rollercoaster: one minute a concept made sense, the next it didn’t. Yet eigenvalues and eigenvectors, supposedly the hardest topic, turned out to be the easiest for me, and I stopped worrying about spatial pictures, since the data I’ll work with has hundreds of dimensions nobody can picture anyway."
+  },
+  {
+    "objectID": "done.html#section",
+    "href": "done.html#section",
+    "title": "Done",
+    "section": "",
+    "text": "missing.csail.mit.edu · finished October 2026 · Week 4 post\nI came in with the same ten git and shell commands I’d used for eight years and left with a map of everything else, so now I know where to look when I get stuck. The surprise was “Beyond the Code”, an honest talk about the soft skills around programming that I’d recommend to developers at any level.\n\n\n\n3blue1brown.com · finished October 2026 · Week 4 post\nGeometry is my weak spot, so the visual approach was a rollercoaster: one minute a concept made sense, the next it didn’t. Yet eigenvalues and eigenvectors, supposedly the hardest topic, turned out to be the easiest for me, and I stopped worrying about spatial pictures, since the data I’ll work with has hundreds of dimensions nobody can picture anyway."
   }
 ]
