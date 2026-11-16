@@ -15,7 +15,71 @@
 <link>https://semper-infieri.github.io/learning-log/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 18 Oct 2026 18:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 18:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 5: Pause and Resume</title>
+  <link>https://semper-infieri.github.io/learning-log/posts/006-week-5/</link>
+  <description><![CDATA[ 
+
+<!-- шапка поста: как баннер Quarto, но дата внутри баннера, а не под ним -->
+
+
+
+<div class="quip">
+<p>Checkpoint reached: rest. Next checkpoint: starting again.</p>
+</div>
+<p>This was my most relaxing week so far — a vacation, even though I spent almost every day at home. I needed some time just for myself. I walked a lot, played The Sims 4, and studied only a little. It’s hard to get back on track after a break like this, but I really needed it.</p>
+<section id="what-i-did" class="level2">
+<h2 data-anchor-id="what-i-did">What I did</h2>
+<ul>
+<li><p><strong>The Linux Command Line</strong>: chapters 10–13. Chapter 10 covers processes — how to see what’s running with <code>ps</code> and <code>top</code>, and how to stop or pause programs with <code>kill</code> and job control. Chapter 11 is about the environment: shell variables, <code>PATH</code>, and the startup files that set everything up when a terminal opens. Chapter 12 is a gentle introduction to vi — enough to open a file, edit it, save, and (most importantly) exit. Chapter 13 shows how to customize the prompt, which finally explained what all those strange symbols in <code>PS1</code> mean.</p></li>
+<li><p><strong>Rosalind</strong>: 3 problems.</p>
+<ul>
+<li><em>IPRB, Mendel’s First Law</em> — the probability that two random organisms from a population produce offspring with a dominant allele. This one was more about probability than code: I had to list all possible parent pairs and their chances first.</li>
+<li><em>PROT, Translating RNA into Protein</em> — reading an mRNA string three letters at a time and turning each codon into an amino acid until it reaches a stop codon.</li>
+<li><em>SUBS, Finding a Motif in DNA</em> — finding every position where a short motif appears in a longer DNA string, including overlapping matches.</li>
+</ul></li>
+<li><p><strong>Khan Academy, High School Biology</strong>: 4 days, 45–50 minutes each. I finished Unit 3: The cell cycle and differentiation. It turned out to be quite a hard unit for me: there are a lot of subtle details about how cells divide, and my notes came out long and dense.</p></li>
+<li><p><strong>Biology lectures</strong>: listened to 3 lectures during my walks — one on the history of how DNA was discovered, and two on biomolecules: proteins and lipids.</p></li>
+<li><p><strong>English Grammar in Use</strong>: units 6–10 — past continuous, present perfect, and the difference between present perfect simple and continuous (<em>I’ve read</em> vs <em>I’ve been reading</em>).</p></li>
+<li><p><strong>Profiles</strong>: pinned my main repositories on GitHub with short descriptions and joined Biostars, a Q&amp;A forum for bioinformatics.</p></li>
+</ul>
+</section>
+<section id="what-clicked" class="level2">
+<h2 data-anchor-id="what-clicked">What clicked</h2>
+<p>Rest is part of the work, not a break from it. After four intense weeks I was more tired than I realized, and this week showed me how much I needed a pause. I didn’t stop completely, though: I walked 7.5 km almost every day, kept my workouts, and listened to biology lectures on the way. That kept a thread connecting me to my routine.</p>
+</section>
+<section id="where-i-got-stuck" class="level2">
+<h2 data-anchor-id="where-i-got-stuck">Where I got stuck</h2>
+<ul>
+<li>Switching back on. Coming back after a break turned out to be harder than taking it.</li>
+<li>Almost no IELTS practice: Speaking and Anki were skipped all seven days, and Reading, Listening, and Writing never started.</li>
+<li>Linear algebra by hand: 0 of 3 sessions. Python for Data Analysis chapter 4 and the review of Molecular Biology lecture 2 also slipped.</li>
+<li>The Linux Command Line stopped at chapter 13 instead of the planned 15.</li>
+</ul>
+</section>
+<section id="what-im-changing" class="level2">
+<h2 data-anchor-id="what-im-changing">What I’m changing</h2>
+<p>I want to plan the return in advance. Before a break ends, I’ll choose one or two small, easy tasks for the first morning, so that getting started doesn’t feel like a big step.</p>
+</section>
+<section id="next-week" class="level2">
+<h2 data-anchor-id="next-week">Next week</h2>
+<p>Back to the full routine, starting with the tasks that slipped this time:</p>
+<ul>
+<li>Linear algebra by hand</li>
+<li>The IELTS blocks</li>
+<li>Python for Data Analysis: chapter 4</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>weekly</category>
+  <guid>https://semper-infieri.github.io/learning-log/posts/006-week-5/</guid>
+  <pubDate>Sun, 25 Oct 2026 18:00:00 GMT</pubDate>
+  <media:content url="https://semper-infieri.github.io/learning-log/posts/006-week-5/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 4: outrun by Rabbits</title>
   <link>https://semper-infieri.github.io/learning-log/posts/005-week-4/</link>

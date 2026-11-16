@@ -25,7 +25,7 @@
     "href": "posts.html",
     "title": "All posts",
     "section": "",
-    "text": "Week 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Week 5: Pause and Resume\n\n\nA vacation week at home: long walks, The Sims 4, a little Linux and Rosalind — and the lesson that coming back is harder than stopping.\n\n\n\n\n\nOct 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -46,7 +46,49 @@
     "href": "index.html#latest",
     "title": "Learning to read cells",
     "section": "Latest",
-    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
+    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nWeek 5: Pause and Resume\n\n\nA vacation week at home: long walks, The Sims 4, a little Linux and Rosalind — and the lesson that coming back is harder than stopping.\n\n\n\n\n\nOct 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
+  },
+  {
+    "objectID": "posts/006-week-5/index.html",
+    "href": "posts/006-week-5/index.html",
+    "title": "Week 5: Pause and Resume",
+    "section": "",
+    "text": "Checkpoint reached: rest. Next checkpoint: starting again.\nThis was my most relaxing week so far — a vacation, even though I spent almost every day at home. I needed some time just for myself. I walked a lot, played The Sims 4, and studied only a little. It’s hard to get back on track after a break like this, but I really needed it."
+  },
+  {
+    "objectID": "posts/006-week-5/index.html#what-i-did",
+    "href": "posts/006-week-5/index.html#what-i-did",
+    "title": "Week 5: Pause and Resume",
+    "section": "What I did",
+    "text": "What I did\n\nThe Linux Command Line: chapters 10–13. Chapter 10 covers processes — how to see what’s running with ps and top, and how to stop or pause programs with kill and job control. Chapter 11 is about the environment: shell variables, PATH, and the startup files that set everything up when a terminal opens. Chapter 12 is a gentle introduction to vi — enough to open a file, edit it, save, and (most importantly) exit. Chapter 13 shows how to customize the prompt, which finally explained what all those strange symbols in PS1 mean.\nRosalind: 3 problems.\n\nIPRB, Mendel’s First Law — the probability that two random organisms from a population produce offspring with a dominant allele. This one was more about probability than code: I had to list all possible parent pairs and their chances first.\nPROT, Translating RNA into Protein — reading an mRNA string three letters at a time and turning each codon into an amino acid until it reaches a stop codon.\nSUBS, Finding a Motif in DNA — finding every position where a short motif appears in a longer DNA string, including overlapping matches.\n\nKhan Academy, High School Biology: 4 days, 45–50 minutes each. I finished Unit 3: The cell cycle and differentiation. It turned out to be quite a hard unit for me: there are a lot of subtle details about how cells divide, and my notes came out long and dense.\nBiology lectures: listened to 3 lectures during my walks — one on the history of how DNA was discovered, and two on biomolecules: proteins and lipids.\nEnglish Grammar in Use: units 6–10 — past continuous, present perfect, and the difference between present perfect simple and continuous (I’ve read vs I’ve been reading).\nProfiles: pinned my main repositories on GitHub with short descriptions and joined Biostars, a Q&A forum for bioinformatics."
+  },
+  {
+    "objectID": "posts/006-week-5/index.html#what-clicked",
+    "href": "posts/006-week-5/index.html#what-clicked",
+    "title": "Week 5: Pause and Resume",
+    "section": "What clicked",
+    "text": "What clicked\nRest is part of the work, not a break from it. After four intense weeks I was more tired than I realized, and this week showed me how much I needed a pause. I didn’t stop completely, though: I walked 7.5 km almost every day, kept my workouts, and listened to biology lectures on the way. That kept a thread connecting me to my routine."
+  },
+  {
+    "objectID": "posts/006-week-5/index.html#where-i-got-stuck",
+    "href": "posts/006-week-5/index.html#where-i-got-stuck",
+    "title": "Week 5: Pause and Resume",
+    "section": "Where I got stuck",
+    "text": "Where I got stuck\n\nSwitching back on. Coming back after a break turned out to be harder than taking it.\nAlmost no IELTS practice: Speaking and Anki were skipped all seven days, and Reading, Listening, and Writing never started.\nLinear algebra by hand: 0 of 3 sessions. Python for Data Analysis chapter 4 and the review of Molecular Biology lecture 2 also slipped.\nThe Linux Command Line stopped at chapter 13 instead of the planned 15."
+  },
+  {
+    "objectID": "posts/006-week-5/index.html#what-im-changing",
+    "href": "posts/006-week-5/index.html#what-im-changing",
+    "title": "Week 5: Pause and Resume",
+    "section": "What I’m changing",
+    "text": "What I’m changing\nI want to plan the return in advance. Before a break ends, I’ll choose one or two small, easy tasks for the first morning, so that getting started doesn’t feel like a big step."
+  },
+  {
+    "objectID": "posts/006-week-5/index.html#next-week",
+    "href": "posts/006-week-5/index.html#next-week",
+    "title": "Week 5: Pause and Resume",
+    "section": "Next week",
+    "text": "Next week\nBack to the full routine, starting with the tasks that slipped this time:\n\nLinear algebra by hand\nThe IELTS blocks\nPython for Data Analysis: chapter 4"
   },
   {
     "objectID": "posts/005-week-4/index.html",

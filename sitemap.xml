@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://semper-infieri.github.io/learning-log/timeline.html</loc>
-    <lastmod>2026-11-01T08:42:28.772Z</lastmod>
+    <lastmod>2026-11-16T11:46:47.782Z</lastmod>
   </url>
   <url>
     <loc>https://semper-infieri.github.io/learning-log/posts.html</loc>
@@ -11,6 +11,10 @@
   <url>
     <loc>https://semper-infieri.github.io/learning-log/index.html</loc>
     <lastmod>2026-10-21T16:07:17.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://semper-infieri.github.io/learning-log/posts/006-week-5/index.html</loc>
+    <lastmod>2026-11-16T11:48:26.873Z</lastmod>
   </url>
   <url>
     <loc>https://semper-infieri.github.io/learning-log/posts/005-week-4/index.html</loc>

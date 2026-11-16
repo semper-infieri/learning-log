@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/006-week-5/index.html",
       "/posts/005-week-4/index.html",
       "/posts/004-week-3/index.html",
       "/posts/003-mitochondria/index.html",
@@ -12,6 +13,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/006-week-5/index.html",
       "/posts/005-week-4/index.html",
       "/posts/004-week-3/index.html",
       "/posts/003-mitochondria/index.html",
