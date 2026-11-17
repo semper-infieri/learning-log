@@ -15,7 +15,7 @@ image: og-image.jpg
 - **Rosalind**: all of Python Village and 9 problems in Bioinformatics Stronghold.
 - **Biology**: finished units 2 and 3 of Khan Academy's High School Biology (organ systems; the cell cycle and differentiation) and read half of chapter 6 of Alberts' *Molecular Biology of the Cell*.
 - **English**: a mock IELTS baseline of around 6.0 (the goal is 7.5 by next September), *Grammar in Use* units 1–10, *Academic Vocabulary in Use* unit 1, and two minutes of speaking practice a day.
-- **Writing**: [a deep dive into mitochondria](posts/003-mitochondria/index.qmd) and weekly logs for weeks [1–2](posts/002-week-1/index.qmd), [3](posts/004-week-3/index.qmd), [4](posts/005-week-4/index.qmd) and [5](posts/006-week-5/index.qmd).
+- **Writing**: [a deep dive into mitochondria](posts/003-mitochondria/index.qmd) and weekly logs for weeks [1–2](posts/002-week-1/index.qmd), [3](posts/004-week-3/index.qmd), [4](posts/005-week-4/index.qmd), [5](posts/006-week-5/index.qmd) and [6](posts/008-week-6/index.qmd).
 - **Outside bioengineering**: a 5K race in 39 minutes with no walking, a week of vacation, and a GitHub profile tidied up.
 
 ## September 2026

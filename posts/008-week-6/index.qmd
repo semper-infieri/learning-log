@@ -1,0 +1,51 @@
+---
+title: "Week 6: Imaginary Numbers, Real Mistakes"
+description: "Determinants with complex numbers, a reusable FASTA parser, and the minus sign I kept losing."
+date: "2026-11-02"
+categories: [weekly]
+image: cover.jpg
+---
+
+::: {.quip}
+Don't repeat yourself — unless it's the final check.
+:::
+
+## What I did
+
+- **Linear algebra by hand**: caught up on two weeks at once — six sessions on determinants, complex numbers, Cramer's rule, and some trigonometry along the way.
+- **The Linux Command Line**: chapters 14–17, which completes the first two parts of the book.
+- **Rosalind**: CONS, Consensus and Profile — building a profile matrix from several DNA strings and reading the most common letter at each position.
+- **Academic Vocabulary in Use**: units 2–5, with new words added to my flashcards.
+
+## What clicked
+
+- Complex numbers in determinants. For a matrix with c + di and c − di in the corners, the product of these two numbers turned out to be just a difference of squares: (c + di)(c − di) = c² − (di)² = c² + d², because i² = −1. A complex number times its conjugate is a plain real number. Once I saw that, determinants with i stopped looking scary.
+- Writing code once and reusing it. For CONS I needed to read FASTA files, so I wrote my own parser and moved it into a separate module. Now every new Rosalind problem starts with one `import` line instead of copying the same code again.
+
+## Where I got stuck
+
+- Small signs, big errors. I kept writing i² as 1 instead of −1, which flipped the sign of a whole term in the determinant. In the linear systems I solved with Cramer's rule, the final check didn't match because of a single sign.
+- Brute-force Python. My CONS solution works, but it's long and repetitive. I can see that it could be shorter (for example, with `zip` or `lambda`), but I'm not at that level of Python yet.
+- FASTA format. One sequence can be split across several lines, and at first it wasn't obvious how to glue the lines back into a single string.
+
+## What I'm changing
+
+- Always substitute the answer back into the original equations — the check catches exactly the sign mistakes I keep making.
+- Practice Python idioms (`zip`, dictionaries, `lambda`) on small exercises, so that my Rosalind solutions become shorter over time.
+- Keep a growing module of my own utilities and reuse it.
+
+## Next week
+
+- Khan Academy, High School Biology: unit 4
+- Readings on the mitochondrial genetic code
+- Python for Data Analysis: chapters 4–6
+- Rosalind: 5 problems
+- The Linux Command Line: chapters 18–21
+- Solving linear algebra problems: 1 hour
+- Alberts: chapter 1
+- R for Data Science: first half of "Whole game"
+- Stat 110: lectures 1–2 + Strategic Practice and Homework 1
+- Academic Vocabulary in Use: units 6–28
+- English Pronunciation in Use Intermediate: units 1–4
+- IELTS Listening, Reading, and Writing mock test
+- English Grammar in Use Intermediate: units 11–20
