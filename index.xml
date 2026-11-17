@@ -15,7 +15,78 @@
 <link>https://semper-infieri.github.io/learning-log/</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 25 Oct 2026 18:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 18:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 6: Imaginary Numbers, Real Mistakes</title>
+  <link>https://semper-infieri.github.io/learning-log/posts/008-week-6/</link>
+  <description><![CDATA[ 
+
+<!-- шапка поста: как баннер Quarto, но дата внутри баннера, а не под ним -->
+
+
+
+<div class="quip">
+<p>Don’t repeat yourself — unless it’s the final check.</p>
+</div>
+<section id="what-i-did" class="level2">
+<h2 data-anchor-id="what-i-did">What I did</h2>
+<ul>
+<li><strong>Linear algebra by hand</strong>: caught up on two weeks at once — six sessions on determinants, complex numbers, Cramer’s rule, and some trigonometry along the way.</li>
+<li><strong>The Linux Command Line</strong>: chapters 14–17, which completes the first two parts of the book.</li>
+<li><strong>Rosalind</strong>: CONS, Consensus and Profile — building a profile matrix from several DNA strings and reading the most common letter at each position.</li>
+<li><strong>Academic Vocabulary in Use</strong>: units 2–5, with new words added to my flashcards.</li>
+</ul>
+</section>
+<section id="what-clicked" class="level2">
+<h2 data-anchor-id="what-clicked">What clicked</h2>
+<ul>
+<li>Complex numbers in determinants. For a matrix with c + di and c − di in the corners, the product of these two numbers turned out to be just a difference of squares: (c + di)(c − di) = c² − (di)² = c² + d², because i² = −1. A complex number times its conjugate is a plain real number. Once I saw that, determinants with i stopped looking scary.</li>
+<li>Writing code once and reusing it. For CONS I needed to read FASTA files, so I wrote my own parser and moved it into a separate module. Now every new Rosalind problem starts with one <code>import</code> line instead of copying the same code again.</li>
+</ul>
+</section>
+<section id="where-i-got-stuck" class="level2">
+<h2 data-anchor-id="where-i-got-stuck">Where I got stuck</h2>
+<ul>
+<li>Small signs, big errors. I kept writing i² as 1 instead of −1, which flipped the sign of a whole term in the determinant. In the linear systems I solved with Cramer’s rule, the final check didn’t match because of a single sign.</li>
+<li>Brute-force Python. My CONS solution works, but it’s long and repetitive. I can see that it could be shorter (for example, with <code>zip</code> or <code>lambda</code>), but I’m not at that level of Python yet.</li>
+<li>FASTA format. One sequence can be split across several lines, and at first it wasn’t obvious how to glue the lines back into a single string.</li>
+</ul>
+</section>
+<section id="what-im-changing" class="level2">
+<h2 data-anchor-id="what-im-changing">What I’m changing</h2>
+<ul>
+<li>Always substitute the answer back into the original equations — the check catches exactly the sign mistakes I keep making.</li>
+<li>Practice Python idioms (<code>zip</code>, dictionaries, <code>lambda</code>) on small exercises, so that my Rosalind solutions become shorter over time.</li>
+<li>Keep a growing module of my own utilities and reuse it.</li>
+</ul>
+</section>
+<section id="next-week" class="level2">
+<h2 data-anchor-id="next-week">Next week</h2>
+<ul>
+<li>Khan Academy, High School Biology: unit 4</li>
+<li>Readings on the mitochondrial genetic code</li>
+<li>Python for Data Analysis: chapters 4–6</li>
+<li>Rosalind: 5 problems</li>
+<li>The Linux Command Line: chapters 18–21</li>
+<li>Solving linear algebra problems: 1 hour</li>
+<li>Alberts: chapter 1</li>
+<li>R for Data Science: first half of “Whole game”</li>
+<li>Stat 110: lectures 1–2 + Strategic Practice and Homework 1</li>
+<li>Academic Vocabulary in Use: units 6–28</li>
+<li>English Pronunciation in Use Intermediate: units 1–4</li>
+<li>IELTS Listening, Reading, and Writing mock test</li>
+<li>English Grammar in Use Intermediate: units 11–20</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>weekly</category>
+  <guid>https://semper-infieri.github.io/learning-log/posts/008-week-6/</guid>
+  <pubDate>Sun, 01 Nov 2026 18:00:00 GMT</pubDate>
+  <media:content url="https://semper-infieri.github.io/learning-log/posts/008-week-6/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 5: Pause and Resume</title>
   <link>https://semper-infieri.github.io/learning-log/posts/006-week-5/</link>

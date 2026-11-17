@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/008-week-6/index.html",
       "/posts/006-week-5/index.html",
       "/posts/005-week-4/index.html",
       "/posts/004-week-3/index.html",
@@ -13,6 +14,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/008-week-6/index.html",
       "/posts/006-week-5/index.html",
       "/posts/005-week-4/index.html",
       "/posts/004-week-3/index.html",
