@@ -1,0 +1,42 @@
+---
+title: "Week 7: Chickens, Eggs, and Adenine"
+description: "Ancestral traits, colorless eggs, molecular fossils of the RNA world, and a broken switch that lets adults drink milk."
+date: "2026-11-09"
+categories: [weekly]
+image: cover.jpg
+---
+
+::: {.quip}
+Mendel's second law says alleles are independent. My understanding of LIA was not.
+:::
+
+## What I did
+
+- **Python for Data Analysis**: chapters 4–6, NumPy arrays and vectorized computation, getting started with pandas (Series and DataFrame), and loading and saving data in different file formats.
+- **Rosalind**: problems 11–15, mortal rabbits (FIBD), overlap graphs for DNA sequences (GRPH), expected offspring (IEV), the longest common substring of several sequences (LCSM), and Mendel's second law with the binomial distribution (LIA).
+- **Stat 110**: lecture 1 and chapter 1, probability and counting — the naive definition of probability, multiplication rule, binomial coefficients, and story proofs.
+- **The Linux Command Line**: chapter 18, archiving and backup — compressing files with gzip and bzip2, packing them with tar and zip, and syncing directories with rsync.
+- **Linear algebra by hand**: 3 of 3 sessions, solving systems of linear equations with Gaussian elimination, including systems with parameters.
+- **Khan Academy, High School Biology**: 5 hours and 40 minutes, completed unit 4
+- **Academic Vocabulary in Use**: unit 6 on phrasal verbs
+- **English Grammar in Use Intermediate**: unit 11 on present perfect
+- **IELTS** practice tests: Listening 36/40 (band 8.0), Reading 33/40 (band 7.5)
+
+## What clicked
+
+**Common doesn't mean original.** I assumed the most common version of a trait must be the ancestral one: brown eyes, for example. It turns out frequency proves nothing, because selection, founder effects, and drift can all make a derived trait common. The ancestral state is found by comparing with an outgroup and reconstructing states along the tree. One part of my intuition survived: breaking is easier than building, so "no pigment" is usually the derived state (blue eyes, white eggs in some chicken breeds).
+
+**So which egg came first?** The earliest dinosaur eggs were soft and unpigmented. Egg color evolved once, in eumaniraptoran dinosaurs (biliverdin for blue-green, protoporphyrin IX for red-brown), and birds inherited it. The first chicken egg was most likely beige, like the eggs of the red junglefowl.
+
+**The A in DNA and the A in ATP are almost the same thing.** Both are adenine. ATP is adenine + ribose + three phosphates, and the A in RNA is the same molecule with one phosphate left: RNA polymerase builds RNA directly from ATP, GTP, CTP, and UTP, cleaving off two phosphates to power each new bond. The A in DNA has deoxyribose instead and comes from dATP. The same adenosine shows up in NAD⁺, FAD, coenzyme A, and cAMP. One explanation is the RNA world hypothesis: our energy currency and cofactors may be molecular fossils of a time when RNA did everything.
+
+**Lactose tolerance is a broken off switch.** In most mammals, the lactase gene (*LCT*) is turned down after weaning, so lactose intolerance in adults is the original state. Tolerance comes from mutations in a regulatory region, located inside the neighboring gene *MCM6*, that keep the gene switched on. These mutations arose independently several times (in Europe, East Africa, and the Middle East), a textbook case of convergent evolution.
+
+## Where I got stuck
+
+**Rosalind LIA.** At first I didn't understand what the problem was asking. I mixed up distributions (Bernoulli is one trial, binomial counts successes in *n* trials, normal is only an approximation for large *n*), wrote the binomial coefficient as n!/(k!·(n−1)!) instead of n!/(k!·(n−k)!), and confused "exactly *k*" with "at least *k*." What worked: go step by step with my own formula. First compute "exactly *k*," then loop *i* from 0 to *k*−1 and take 1 − sum. Lesson: solve one case first, then generalize with a loop.
+
+## What I'm changing
+
+- **Stat 110: practice separate from reading.** Reading the chapter and watching the lecture wasn't enough to make the ideas stick. Starting next week, I'll work through every exercise in the textbook in order, in separate sessions that are only for solving problems.
+- **Probability by hand.** Three short sessions a week of routine problems until they feel automatic, plus one or two from Mosteller's *Fifty Challenging Problems in Probability* — the same approach that worked for linear algebra.
