@@ -20,10 +20,12 @@ I spent eight years making websites work. Now I'm heading toward bioengineering:
 - The command line in depth — [The Linux Command Line](https://linuxcommand.org/tlcl.php) by William Shotts
 - Python for data work — [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney
 - Algorithms on real biological data — [Rosalind](https://rosalind.info), Bioinformatics Stronghold
+- Probability — Harvard's [Stat 110](https://stat110.hsites.harvard.edu/) by Joe Blitzstein
 - Biology from the ground up — [Khan Academy High School Biology](https://www.khanacademy.org/science/hs-bio)
+- A college biology textbook — [OpenStax Biology 2e](https://openstax.org/details/books/biology-2e)
+- Biochemistry, genetics and molecular biology — MIT's [Fundamentals of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/)
 
-
-Next up: probability and statistics, then R and single-cell workflows.
+Next up: calculus, then R and single-cell workflows.
 
 ::: {.latest-section}
 ## Latest
