@@ -15,7 +15,72 @@
 <link>https://semper-infieri.github.io/learning-log/</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 08 Nov 2026 18:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 18:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 8: Stuck at Every Step</title>
+  <link>https://semper-infieri.github.io/learning-log/posts/012-week-8/</link>
+  <description><![CDATA[ 
+
+<!-- шапка поста: как баннер Quarto, но дата внутри баннера, а не под ним -->
+
+
+
+<div class="quip">
+<p>Oil and water don’t mix. Neither do combinatorics and me — yet.</p>
+</div>
+<section id="what-i-did" class="level2">
+<h2 data-anchor-id="what-i-did">What I did</h2>
+<ul>
+<li><strong>Stat 110</strong>:
+<ul>
+<li>lecture 2 on story proofs and the axioms of probability</li>
+<li>Strategic Practice 1 — counting with dice, palindromes, and poker hands (flush, two pair), lattice paths, the probability that a random word with no repeated letters uses the whole alphabet (it’s very close to 1/e), and story proofs</li>
+</ul></li>
+<li><strong>Probability by hand</strong>: 1 of 3 sessions</li>
+<li><strong>OpenStax Biology 2e</strong>: chapter 4 on cell structure — studying cells with microscopes, prokaryotic and eukaryotic cells, the endomembrane system, the cytoskeleton, and connections between cells</li>
+<li><strong>MIT 7.01SC Fundamentals of Biology</strong>: the first 4 lessons of unit 1, Biochemistry — types of organisms and what cells are made of, covalent and hydrogen bonds, macromolecules (lipids, carbohydrates, nucleic acids), and proteins with their levels of structure and the non-covalent forces that hold them together</li>
+<li><strong>Field reading</strong>: following researchers and journals on Bluesky, Google Scholar alerts for my keywords</li>
+<li><strong>Khan Academy, High School Biology</strong>: 2 hours and 30 minutes, going through unit 5 on gene expression and regulation</li>
+<li><strong>English Pronunciation in Use</strong>: units 1–2</li>
+<li><strong>Academic Vocabulary in Use</strong>: units 7–11 on
+<ul>
+<li>key quantifying expressions</li>
+<li>words with several meanings</li>
+<li>metaphors and idioms</li>
+<li>nouns and the words they combine with</li>
+<li>adjective and noun combinations</li>
+</ul></li>
+<li><strong>English Grammar in Use Intermediate</strong>: units 12–14 on present perfect and past simple</li>
+<li><strong>Shadowing</strong>: six 15-minute sessions</li>
+<li><strong>IELTS</strong> practice tests: Reading 32/40 (band 7.0), Listening 35/40 (band 8.0)</li>
+</ul>
+</section>
+<section id="what-clicked" class="level2">
+<h2 data-anchor-id="what-clicked">What clicked</h2>
+<p><strong>Fat isn’t hydrophobic — water is fat-phobic.</strong> Water molecules can’t form hydrogen bonds with nonpolar tails, so around each tail they have to arrange themselves into an ordered “cage” and lose their freedom of movement (entropy). It’s more favorable for water to push all the nonpolar molecules into one cluster, which shrinks the surface it has to organize around. The oil doesn’t avoid water; water squeezes the oil out. Fat-shaming at the molecular level.</p>
+</section>
+<section id="where-i-got-stuck" class="level2">
+<h2 data-anchor-id="where-i-got-stuck">Where I got stuck</h2>
+<p><strong>Stat 110, Strategic Practice 1 — pretty much everywhere.</strong> Dice, palindromes, poker hands, lattice paths, words without repeated letters, story proofs: I got stuck at almost every step of every problem and couldn’t have solved any of them without hints. Counting turned out to be a completely different way of thinking from anything I’d done before. Each problem needs its own way of looking at it, and I don’t have a toolbox for that yet.</p>
+<p>What worked was taking one hint at a time and then trying the next step myself. It was slow, but by the end, I could at least see which questions to ask: does order matter, am I counting something twice, can I count the complement instead?</p>
+</section>
+<section id="what-im-changing" class="level2">
+<h2 data-anchor-id="what-im-changing">What I’m changing</h2>
+<ul>
+<li><strong>Stat 110 problems in shorter, more frequent sessions.</strong> Long sessions on counting problems left me stuck and frustrated. Starting next week, I’m switching from three 40-minute sessions to six 20-minute ones: less time to spiral on a single step, more chances to come back with fresh eyes.</li>
+<li><strong>Back to basic chemistry.</strong> Biochemistry kept assuming things I didn’t remember from school: electronegativity, ionic and covalent bonds, polarity, hydrogen bonds. Alongside the main courses, I’m spending time on the basics with Crash Course Chemistry and Khan Academy.</li>
+<li><strong>Calculus starts.</strong> The next course on my route is Differential and Integral Calculus, so derivatives and integrals join the weekly plan.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>weekly</category>
+  <guid>https://semper-infieri.github.io/learning-log/posts/012-week-8/</guid>
+  <pubDate>Sun, 15 Nov 2026 18:00:00 GMT</pubDate>
+  <media:content url="https://semper-infieri.github.io/learning-log/posts/012-week-8/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 7: Chickens, Eggs, and Adenine</title>
   <link>https://semper-infieri.github.io/learning-log/posts/010-week-7/</link>

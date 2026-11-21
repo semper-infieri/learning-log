@@ -25,7 +25,7 @@
     "href": "posts.html",
     "title": "All posts",
     "section": "",
-    "text": "Week 7: Chickens, Eggs, and Adenine\n\n\nAncestral traits, colorless eggs, molecular fossils of the RNA world, and a broken switch that lets adults drink milk.\n\n\n\n\n\nNov 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6: Imaginary Numbers, Real Mistakes\n\n\nDeterminants with complex numbers, a reusable FASTA parser, and the minus sign I kept losing.\n\n\n\n\n\nNov 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5: Pause and Resume\n\n\nA vacation week at home: long walks, The Sims 4, a little Linux and Rosalind — and the lesson that coming back is harder than stopping.\n\n\n\n\n\nOct 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Week 8: Stuck at Every Step\n\n\nStat 110 humbled me, water turned out to be the bully, and I went back to the chemistry I’d forgotten.\n\n\n\n\n\nNov 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7: Chickens, Eggs, and Adenine\n\n\nAncestral traits, colorless eggs, molecular fossils of the RNA world, and a broken switch that lets adults drink milk.\n\n\n\n\n\nNov 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6: Imaginary Numbers, Real Mistakes\n\n\nDeterminants with complex numbers, a reusable FASTA parser, and the minus sign I kept losing.\n\n\n\n\n\nNov 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5: Pause and Resume\n\n\nA vacation week at home: long walks, The Sims 4, a little Linux and Rosalind — and the lesson that coming back is harder than stopping.\n\n\n\n\n\nOct 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe tenants inside every cell\n\n\nNotes from a deep dive into mitochondria: what they are, where they came from and why they matter.\n\n\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeeks 1–2: first, set up the calendar\n\n\nWhat I learned in my first two weeks of switching from frontend to bioengineering\n\n\n\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe plan: fifteen weeks to January\n\n\nWhat I’m learning, building and aiming for before 2027 starts\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -39,14 +39,14 @@
     "href": "index.html#what-im-learning-now",
     "title": "Learning to read cells",
     "section": "What I’m learning now",
-    "text": "What I’m learning now\n\nThe command line in depth — The Linux Command Line by William Shotts\nPython for data work — Python for Data Analysis by Wes McKinney\nAlgorithms on real biological data — Rosalind, Bioinformatics Stronghold\nBiology from the ground up — Khan Academy High School Biology\n\nNext up: probability and statistics, then R and single-cell workflows."
+    "text": "What I’m learning now\n\nThe command line in depth — The Linux Command Line by William Shotts\nPython for data work — Python for Data Analysis by Wes McKinney\nAlgorithms on real biological data — Rosalind, Bioinformatics Stronghold\nProbability — Harvard’s Stat 110 by Joe Blitzstein\nBiology from the ground up — Khan Academy High School Biology\nA college biology textbook — OpenStax Biology 2e\nBiochemistry, genetics and molecular biology — MIT’s Fundamentals of Biology\n\nNext up: calculus, then R and single-cell workflows."
   },
   {
     "objectID": "index.html#latest",
     "href": "index.html#latest",
     "title": "Learning to read cells",
     "section": "Latest",
-    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nWeek 7: Chickens, Eggs, and Adenine\n\n\nAncestral traits, colorless eggs, molecular fossils of the RNA world, and a broken switch that lets adults drink milk.\n\n\n\n\n\nNov 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6: Imaginary Numbers, Real Mistakes\n\n\nDeterminants with complex numbers, a reusable FASTA parser, and the minus sign I kept losing.\n\n\n\n\n\nNov 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5: Pause and Resume\n\n\nA vacation week at home: long walks, The Sims 4, a little Linux and Rosalind — and the lesson that coming back is harder than stopping.\n\n\n\n\n\nOct 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3: Missing Semester, almost found\n\n\nSeven lectures in one week and an honest IELTS baseline\n\n\n\n\n\nOct 12, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
+    "text": "Latest\n\n\n\n\n\n\n\n\n\n\nWeek 8: Stuck at Every Step\n\n\nStat 110 humbled me, water turned out to be the bully, and I went back to the chemistry I’d forgotten.\n\n\n\n\n\nNov 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7: Chickens, Eggs, and Adenine\n\n\nAncestral traits, colorless eggs, molecular fossils of the RNA world, and a broken switch that lets adults drink milk.\n\n\n\n\n\nNov 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6: Imaginary Numbers, Real Mistakes\n\n\nDeterminants with complex numbers, a reusable FASTA parser, and the minus sign I kept losing.\n\n\n\n\n\nNov 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5: Pause and Resume\n\n\nA vacation week at home: long walks, The Sims 4, a little Linux and Rosalind — and the lesson that coming back is harder than stopping.\n\n\n\n\n\nOct 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4: outrun by Rabbits\n\n\nI finished Missing Semester, found eigenvectors surprisingly friendly, and ran 5 km without stopping.\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\nNo matching items\n\nAll posts →"
   },
   {
     "objectID": "posts/006-week-5/index.html",
@@ -208,6 +208,41 @@
     "title": "Weeks 1–2: first, set up the calendar",
     "section": "Next week",
     "text": "Next week\n\nMissing Semester (lectures 2 — 7)\nThe Linux Command Line (chapters 1–5)\nPython for Data Analysis (chapters 1–2)\nSolve some Rosalind problems\nMock IELTS\nHigh School Biology every day\n3Blue1Brown (lessons 7–16)"
+  },
+  {
+    "objectID": "posts/012-week-8/index.html",
+    "href": "posts/012-week-8/index.html",
+    "title": "Week 8: Stuck at Every Step",
+    "section": "",
+    "text": "Oil and water don’t mix. Neither do combinatorics and me — yet."
+  },
+  {
+    "objectID": "posts/012-week-8/index.html#what-i-did",
+    "href": "posts/012-week-8/index.html#what-i-did",
+    "title": "Week 8: Stuck at Every Step",
+    "section": "What I did",
+    "text": "What I did\n\nStat 110:\n\nlecture 2 on story proofs and the axioms of probability\nStrategic Practice 1 — counting with dice, palindromes, and poker hands (flush, two pair), lattice paths, the probability that a random word with no repeated letters uses the whole alphabet (it’s very close to 1/e), and story proofs\n\nProbability by hand: 1 of 3 sessions\nOpenStax Biology 2e: chapter 4 on cell structure — studying cells with microscopes, prokaryotic and eukaryotic cells, the endomembrane system, the cytoskeleton, and connections between cells\nMIT 7.01SC Fundamentals of Biology: the first 4 lessons of unit 1, Biochemistry — types of organisms and what cells are made of, covalent and hydrogen bonds, macromolecules (lipids, carbohydrates, nucleic acids), and proteins with their levels of structure and the non-covalent forces that hold them together\nField reading: following researchers and journals on Bluesky, Google Scholar alerts for my keywords\nKhan Academy, High School Biology: 2 hours and 30 minutes, going through unit 5 on gene expression and regulation\nEnglish Pronunciation in Use: units 1–2\nAcademic Vocabulary in Use: units 7–11 on\n\nkey quantifying expressions\nwords with several meanings\nmetaphors and idioms\nnouns and the words they combine with\nadjective and noun combinations\n\nEnglish Grammar in Use Intermediate: units 12–14 on present perfect and past simple\nShadowing: six 15-minute sessions\nIELTS practice tests: Reading 32/40 (band 7.0), Listening 35/40 (band 8.0)"
+  },
+  {
+    "objectID": "posts/012-week-8/index.html#what-clicked",
+    "href": "posts/012-week-8/index.html#what-clicked",
+    "title": "Week 8: Stuck at Every Step",
+    "section": "What clicked",
+    "text": "What clicked\nFat isn’t hydrophobic — water is fat-phobic. Water molecules can’t form hydrogen bonds with nonpolar tails, so around each tail they have to arrange themselves into an ordered “cage” and lose their freedom of movement (entropy). It’s more favorable for water to push all the nonpolar molecules into one cluster, which shrinks the surface it has to organize around. The oil doesn’t avoid water; water squeezes the oil out. Fat-shaming at the molecular level."
+  },
+  {
+    "objectID": "posts/012-week-8/index.html#where-i-got-stuck",
+    "href": "posts/012-week-8/index.html#where-i-got-stuck",
+    "title": "Week 8: Stuck at Every Step",
+    "section": "Where I got stuck",
+    "text": "Where I got stuck\nStat 110, Strategic Practice 1 — pretty much everywhere. Dice, palindromes, poker hands, lattice paths, words without repeated letters, story proofs: I got stuck at almost every step of every problem and couldn’t have solved any of them without hints. Counting turned out to be a completely different way of thinking from anything I’d done before. Each problem needs its own way of looking at it, and I don’t have a toolbox for that yet.\nWhat worked was taking one hint at a time and then trying the next step myself. It was slow, but by the end, I could at least see which questions to ask: does order matter, am I counting something twice, can I count the complement instead?"
+  },
+  {
+    "objectID": "posts/012-week-8/index.html#what-im-changing",
+    "href": "posts/012-week-8/index.html#what-im-changing",
+    "title": "Week 8: Stuck at Every Step",
+    "section": "What I’m changing",
+    "text": "What I’m changing\n\nStat 110 problems in shorter, more frequent sessions. Long sessions on counting problems left me stuck and frustrated. Starting next week, I’m switching from three 40-minute sessions to six 20-minute ones: less time to spiral on a single step, more chances to come back with fresh eyes.\nBack to basic chemistry. Biochemistry kept assuming things I didn’t remember from school: electronegativity, ionic and covalent bonds, polarity, hydrogen bonds. Alongside the main courses, I’m spending time on the basics with Crash Course Chemistry and Khan Academy.\nCalculus starts. The next course on my route is Differential and Integral Calculus, so derivatives and integrals join the weekly plan."
   },
   {
     "objectID": "posts/003-mitochondria/index.html",
